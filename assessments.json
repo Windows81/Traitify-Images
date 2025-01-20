@@ -1,0 +1,4584 @@
+[
+	{
+		"id": "d2adf711-7c2b-4313-b33c-24c7b93ee949",
+		"deck_id": "big-five",
+		"package_id": "",
+		"status": "started",
+		"scoring_scale": "STEN",
+		"slide_type": "IMAGE",
+		"assessment_type": "DIMENSION_BASED",
+		"started_at": 1737073534566,
+		"created_at": 1737073526368,
+		"locale_key": "en-US",
+		"personality_types": [],
+		"personality_traits": [],
+		"career_matches": [],
+		"slides": [
+			{
+				"id": "860733c0-f759-4766-9463-4871868fe946",
+				"position": null,
+				"caption": "Freethinking",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2FvcGAB9LinnrvJ0txGaGT/5c92b066376d93a92d0903e6dc30ed32/2ed3b339-2392-4906-806a-c8952c66113d_desktop?auto=format&fp-x=0.43&fp-y=0.52",
+						"width": 1000,
+						"height": 625,
+						"focusX": 43,
+						"focusY": 52
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/63syxU6lM2OfLYYRpmXHfa/49e0aac63319acd7ac86e41d60ad5d06/3dbbbdc1-414e-41e2-bc07-83d949cba57f_desktop_retina?auto=format&fp-x=0.43&fp-y=0.52",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 43,
+						"focusY": 52
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/2FvcGAB9LinnrvJ0txGaGT/5c92b066376d93a92d0903e6dc30ed32/2ed3b339-2392-4906-806a-c8952c66113d_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/63syxU6lM2OfLYYRpmXHfa/49e0aac63319acd7ac86e41d60ad5d06/3dbbbdc1-414e-41e2-bc07-83d949cba57f_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 43,
+				"focus_y": 52,
+				"alternative_text": "A photo of a Caucasian woman reading something and wearing a backpack, in an Asian country viewing a Buddhist statue."
+			},
+			{
+				"id": "a7348285-e72c-4e02-8a06-c22c16b34636",
+				"position": null,
+				"caption": "Frustrated by Others",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6QhjS33anuPnmH76Knj8Gl/b3d7d397fec0eaff7016c052f5b8d3ec/d362e07e-cc1f-4ffc-a87d-1b3774883ebc_desktop?auto=format&fp-x=0.43&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 43,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3B8gnu3ORkXIXlUtmsIcht/303e5af1324a4010203159c20aff30f6/be963fe6-c2a9-4805-9a97-36715296d1a1_desktop_retina?auto=format&fp-x=0.43&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 43,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/6QhjS33anuPnmH76Knj8Gl/b3d7d397fec0eaff7016c052f5b8d3ec/d362e07e-cc1f-4ffc-a87d-1b3774883ebc_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3B8gnu3ORkXIXlUtmsIcht/303e5af1324a4010203159c20aff30f6/be963fe6-c2a9-4805-9a97-36715296d1a1_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 43,
+				"focus_y": 50,
+				"alternative_text": "A photo of a waitress in a restaurant looking upset at the dollars in her hand."
+			},
+			{
+				"id": "faf2542b-b1e0-4133-85bd-9cda9df6eedf",
+				"position": null,
+				"caption": "Unaffected By Others",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1YYS0U0JzwxOLfETYYn2Bm/b09a3b6190dd567e18d323e0fcf856ec/638cfafa-8368-4b4f-a32e-223689f0d12f_desktop?auto=format&fp-x=0.54&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 54,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3f9McP8hcF5oVLu6GmLpU2/2c8d2f3bb91f5882dfcb8996c4097274/4f81a714-0b82-4575-899d-a7917bb069a1_desktop_retina?auto=format&fp-x=0.54&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 54,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/1YYS0U0JzwxOLfETYYn2Bm/b09a3b6190dd567e18d323e0fcf856ec/638cfafa-8368-4b4f-a32e-223689f0d12f_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3f9McP8hcF5oVLu6GmLpU2/2c8d2f3bb91f5882dfcb8996c4097274/4f81a714-0b82-4575-899d-a7917bb069a1_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 54,
+				"focus_y": 49,
+				"alternative_text": "A photo of two people on a bus: an adolescent boy talking on a cellphone while sitting next to a middle aged woman who is glaring at him"
+			},
+			{
+				"id": "f541f4b6-975c-4c43-b066-41c2717011f8",
+				"position": null,
+				"caption": "Prefers the Old Method",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7I0hw8mwXDbDkZlKsZssqi/44d1d32a142427254829a678e3ccad37/b4b08df5-3faf-46b1-b77b-c9bbb09221f3_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/53fj0MBqKWZlcfcL7THdun/f55e41b13d22285df74bb058eff6f70e/535bee63-cf29-49bf-827e-3adb0ed7d629_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/7I0hw8mwXDbDkZlKsZssqi/44d1d32a142427254829a678e3ccad37/b4b08df5-3faf-46b1-b77b-c9bbb09221f3_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/53fj0MBqKWZlcfcL7THdun/f55e41b13d22285df74bb058eff6f70e/535bee63-cf29-49bf-827e-3adb0ed7d629_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of an older person’s hands, using a rolling pin to roll dough while making a pizza crust."
+			},
+			{
+				"id": "b04f73ed-e6c8-40d2-b34c-df88259e62ed",
+				"position": null,
+				"caption": "Curious",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4W6zXJFxDy7vmR470BBu9r/4b58e0dfdc71462f6e8b5e0cad98069b/836b4ad6-cfac-4be3-b96d-b308364c2d2a_desktop?auto=format&fp-x=0.59&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 59,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2YTko58zI8Q0S82oJAtz49/88ff4aadb10d33dab1bb23acb112426d/a98239c0-c724-4fa0-9e73-1f70e71e1047_desktop_retina?auto=format&fp-x=0.59&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 59,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/4W6zXJFxDy7vmR470BBu9r/4b58e0dfdc71462f6e8b5e0cad98069b/836b4ad6-cfac-4be3-b96d-b308364c2d2a_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/2YTko58zI8Q0S82oJAtz49/88ff4aadb10d33dab1bb23acb112426d/a98239c0-c724-4fa0-9e73-1f70e71e1047_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 59,
+				"focus_y": 49,
+				"alternative_text": "A photo of a woman peering outside through a venetian blind."
+			},
+			{
+				"id": "5cf47d0a-1b39-4f89-bdfa-14cbeab72b33",
+				"position": null,
+				"caption": "New Experiences",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/18Fm9qTY9yPsfDelBgQxgL/6ddc8cc2d8300d1e36a362106a246f60/f1cb143f-973d-47f5-85ae-594b230c1562_desktop?auto=format&fp-x=0.66&fp-y=0.52",
+						"width": 1000,
+						"height": 625,
+						"focusX": 66,
+						"focusY": 52
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4Cy2vb9VXZtsYFTFKCN51V/ab0ef521327707ada745f6e4e7afcc25/e845ddf8-61fd-4b4a-9650-afb95c0754e2_desktop_retina?auto=format&fp-x=0.66&fp-y=0.52",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 66,
+						"focusY": 52
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/18Fm9qTY9yPsfDelBgQxgL/6ddc8cc2d8300d1e36a362106a246f60/f1cb143f-973d-47f5-85ae-594b230c1562_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4Cy2vb9VXZtsYFTFKCN51V/ab0ef521327707ada745f6e4e7afcc25/e845ddf8-61fd-4b4a-9650-afb95c0754e2_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 66,
+				"focus_y": 52,
+				"alternative_text": "A photo of a plate of food containing octopus and vegetables."
+			},
+			{
+				"id": "22596362-5b01-4e1a-bda0-487381840d8e",
+				"position": null,
+				"caption": "Group Projects",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6vYt4fmac8jNieIp2HwTc5/bc726f9c43bc268ff0cd3ac17e9b9d97/367a9c71-406c-4edf-abc2-3c63cd04bcc9_desktop?auto=format&fp-x=0.56&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 56,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/60aJf62VQQgmUY4wiwxWoc/14c0a7dc967687317019308730976ee4/914a95bc-e969-44e2-bb01-36d70b321183_desktop_retina?auto=format&fp-x=0.56&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 56,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/6vYt4fmac8jNieIp2HwTc5/bc726f9c43bc268ff0cd3ac17e9b9d97/367a9c71-406c-4edf-abc2-3c63cd04bcc9_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/60aJf62VQQgmUY4wiwxWoc/14c0a7dc967687317019308730976ee4/914a95bc-e969-44e2-bb01-36d70b321183_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 56,
+				"focus_y": 49,
+				"alternative_text": "A photo of a group of coworkers working together on a project."
+			},
+			{
+				"id": "57fda2e0-bf20-42ec-b4ae-02dbddbf8452",
+				"position": null,
+				"caption": "Nothing Different",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3JeJg5M34ZJB3FBP4tSCTP/56fe2a04576145862e48d64d49a4ea74/926bf612-f591-429c-81c2-b47bfe8f0e31_desktop?auto=format&fp-x=0.65&fp-y=0.34",
+						"width": 1000,
+						"height": 625,
+						"focusX": 65,
+						"focusY": 34
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7iGQhu28u6JE11Uqz6umul/32f55dc8af028bf1c5584cbe4648334b/aaac0a2b-0d66-4686-a5c7-b5da4b967cd9_desktop_retina?auto=format&fp-x=0.65&fp-y=0.34",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 65,
+						"focusY": 34
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3JeJg5M34ZJB3FBP4tSCTP/56fe2a04576145862e48d64d49a4ea74/926bf612-f591-429c-81c2-b47bfe8f0e31_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/7iGQhu28u6JE11Uqz6umul/32f55dc8af028bf1c5584cbe4648334b/aaac0a2b-0d66-4686-a5c7-b5da4b967cd9_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 65,
+				"focus_y": 34,
+				"alternative_text": "An aerial photo of track housing where all the houses look the same."
+			},
+			{
+				"id": "6e79fe05-b9b1-446c-81c0-aeb008db54c4",
+				"position": null,
+				"caption": "Neat and Tidy",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3fJBMfsz9CyRbsSlryAuEf/3eaa2c3052845fdca8ba2b84a45d9801/2bd140c4-8dbe-4840-aad4-1c15e46bfa22_desktop?auto=format&fp-x=0.37&fp-y=0.56",
+						"width": 1000,
+						"height": 625,
+						"focusX": 37,
+						"focusY": 56
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2KTCbtRR07PPACU90A2sMk/25aaee4316011e2c9524424002f26392/a8075eff-05d8-4dc5-80b4-45d5c1a45a53_desktop_retina?auto=format&fp-x=0.37&fp-y=0.56",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 37,
+						"focusY": 56
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3fJBMfsz9CyRbsSlryAuEf/3eaa2c3052845fdca8ba2b84a45d9801/2bd140c4-8dbe-4840-aad4-1c15e46bfa22_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/2KTCbtRR07PPACU90A2sMk/25aaee4316011e2c9524424002f26392/a8075eff-05d8-4dc5-80b4-45d5c1a45a53_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 37,
+				"focus_y": 56,
+				"alternative_text": "A photo of a pair of hands carefully folding a sheet."
+			},
+			{
+				"id": "b2f8a151-f1d5-4dd8-8658-6843e7c257c5",
+				"position": null,
+				"caption": "Apologizing",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/40MiUkSRxhGriYOq2Mdk2i/47c48af3a11e67f458979d14d63c6c54/260e1210-8378-4486-b90d-5dd51a18fbf3_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1EP2CpYTeCgjehaiQjzgaF/d17c4a8536a0a8c177161b4b47828cca/d4b03713-9347-4d50-b3eb-c342b4661a91_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/40MiUkSRxhGriYOq2Mdk2i/47c48af3a11e67f458979d14d63c6c54/260e1210-8378-4486-b90d-5dd51a18fbf3_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1EP2CpYTeCgjehaiQjzgaF/d17c4a8536a0a8c177161b4b47828cca/d4b03713-9347-4d50-b3eb-c342b4661a91_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of someone holding a flower by the stem with both hands."
+			},
+			{
+				"id": "7a29c2a1-2607-4bef-82e2-e26316897e4a",
+				"position": null,
+				"caption": "Unyielding",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6uZMvUUTe4b9rrPVpyJUMZ/c3441598e637c1c133ac815b08020302/2aff4675-82bf-43d3-af01-40a1bbb925e5_desktop?auto=format&fp-x=0.44&fp-y=0.51",
+						"width": 1000,
+						"height": 625,
+						"focusX": 44,
+						"focusY": 51
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/XhO8p3oSRxAa5QDAVXG2p/cca6bcc14d003a9471235d8e995dac49/d167790b-3113-4b38-9399-a1b696716fc6_desktop_retina?auto=format&fp-x=0.44&fp-y=0.51",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 44,
+						"focusY": 51
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/6uZMvUUTe4b9rrPVpyJUMZ/c3441598e637c1c133ac815b08020302/2aff4675-82bf-43d3-af01-40a1bbb925e5_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/XhO8p3oSRxAa5QDAVXG2p/cca6bcc14d003a9471235d8e995dac49/d167790b-3113-4b38-9399-a1b696716fc6_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 44,
+				"focus_y": 51,
+				"alternative_text": "A photo of two women talking. One woman looks at the second, but the first is looking away with her eyebrows raised and one hand, palm up, in the air."
+			},
+			{
+				"id": "619c329b-38da-4e39-922b-4003311b131d",
+				"position": null,
+				"caption": "Open to Feedback",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/76vxq7Dh1zhGm91aWeHIbW/95fd1c226f423a2ea8c0373b2f8336a8/a105ef9e-7e81-4183-b1e4-90b4c733c437_desktop?auto=format&fp-x=0.58&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 58,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1mWd8MnwuLMfYBfhJadZMP/cd5f1394c60eab24a939d30a718171df/9de8e8b7-8e58-4b6f-835a-e2c209645362_desktop_retina?auto=format&fp-x=0.58&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 58,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/76vxq7Dh1zhGm91aWeHIbW/95fd1c226f423a2ea8c0373b2f8336a8/a105ef9e-7e81-4183-b1e4-90b4c733c437_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1mWd8MnwuLMfYBfhJadZMP/cd5f1394c60eab24a939d30a718171df/9de8e8b7-8e58-4b6f-835a-e2c209645362_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 58,
+				"focus_y": 50,
+				"alternative_text": "A photo of a smiling chef who is talking to a table of diners in a restaurant."
+			},
+			{
+				"id": "7b7606cb-2be2-4f3f-96a3-f9984173f703",
+				"position": null,
+				"caption": "Sure of My Performance",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/79gH1FqxyaNnTlLSVe47v1/aa8f194f869585719e7e7839635f83e6/2d59c451-7b35-4022-b0ae-2a1ca21297d8_desktop?auto=format&fp-x=0.32&fp-y=0.48",
+						"width": 1000,
+						"height": 625,
+						"focusX": 32,
+						"focusY": 48
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3hoRnySkpjC6tZ2rLmgFBd/ad9e711c18411439acd80e5ddbab22f6/fb3abbda-4a0d-4e67-a71d-ef6cb7fc6451_desktop_retina?auto=format&fp-x=0.32&fp-y=0.48",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 32,
+						"focusY": 48
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/79gH1FqxyaNnTlLSVe47v1/aa8f194f869585719e7e7839635f83e6/2d59c451-7b35-4022-b0ae-2a1ca21297d8_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3hoRnySkpjC6tZ2rLmgFBd/ad9e711c18411439acd80e5ddbab22f6/fb3abbda-4a0d-4e67-a71d-ef6cb7fc6451_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 32,
+				"focus_y": 48,
+				"alternative_text": "A photo of a chef standing with his arms folded in the kitchen, looking at the camera with a slight smile on his face."
+			},
+			{
+				"id": "ce785ef4-0007-4b14-91bf-719d5db29c4c",
+				"position": null,
+				"caption": "Easily Criticized",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2pEv7V2SVZP0C5JzrabKfW/361077ff69fd5973672c98016a8c8f6e/959f3b7a-b380-4109-bbeb-253ee316df72_desktop?auto=format&fp-x=0.63&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 63,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2phFAIzqcHBhvR8KZklqPc/8105c9a299a32b55b1c5378ce88b8873/2eb086cd-bea5-40ef-ab9c-c7c27b5a0cff_desktop_retina?auto=format&fp-x=0.63&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 63,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/2pEv7V2SVZP0C5JzrabKfW/361077ff69fd5973672c98016a8c8f6e/959f3b7a-b380-4109-bbeb-253ee316df72_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/2phFAIzqcHBhvR8KZklqPc/8105c9a299a32b55b1c5378ce88b8873/2eb086cd-bea5-40ef-ab9c-c7c27b5a0cff_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 63,
+				"focus_y": 50,
+				"alternative_text": "A photo of a young computer technician explaining something to a businesswoman, looking at her computer, who looks worried."
+			},
+			{
+				"id": "21c81096-a4fc-4a16-8c78-f68247e00c24",
+				"position": null,
+				"caption": "Soup kitchen",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/Rz62isgulL1HkdBwGcuXJ/940ef9c6ca2847a2f75eb3d7d7628514/07e264e2-62d0-42f5-97fa-e1efa221cd42_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7a2XxEDnHiwYcomqrWcOEl/273a2ec3304e8c4b97b012a537ae368a/e1e01735-1402-478e-b53d-b82661450f9a_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/Rz62isgulL1HkdBwGcuXJ/940ef9c6ca2847a2f75eb3d7d7628514/07e264e2-62d0-42f5-97fa-e1efa221cd42_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/7a2XxEDnHiwYcomqrWcOEl/273a2ec3304e8c4b97b012a537ae368a/e1e01735-1402-478e-b53d-b82661450f9a_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of two people serving a meal in a soup kitchen."
+			},
+			{
+				"id": "d978d56b-9b28-4152-b9a8-c90624f6b6b6",
+				"position": null,
+				"caption": "Welcomes Critiques",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/HTEBsYxJGs321AZxKGN4m/3ce4e36088e14cd1ba9c6bbe53c310bd/ffc18fc3-9ab5-456b-aa36-ae14787e7592_desktop?auto=format&fp-x=0.60&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 60,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/797b6h4Jw1hTD5KwfguIKL/5372a44d181e980dea0673fcb4910359/1fa885dc-4bc1-41e4-b7b4-a9dd1bd845f7_desktop_retina?auto=format&fp-x=0.60&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 60,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/HTEBsYxJGs321AZxKGN4m/3ce4e36088e14cd1ba9c6bbe53c310bd/ffc18fc3-9ab5-456b-aa36-ae14787e7592_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/797b6h4Jw1hTD5KwfguIKL/5372a44d181e980dea0673fcb4910359/1fa885dc-4bc1-41e4-b7b4-a9dd1bd845f7_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 60,
+				"focus_y": 50,
+				"alternative_text": "A photo showing two professionals: a woman is listening to a man who is pointing to something on a paper the woman is holding."
+			},
+			{
+				"id": "7e5a9624-4721-44c6-a3a3-b9c35ce47c7d",
+				"position": null,
+				"caption": "No Overtime",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6xyilXqpmR4jSLTUBqTqzw/2b79a0c6e94721d5d90a595b681240de/35f839fe-e084-406b-af90-946b5d840517_desktop?auto=format&fp-x=0.41&fp-y=0.43",
+						"width": 1000,
+						"height": 625,
+						"focusX": 41,
+						"focusY": 43
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3CeF1D0z2tXx3UfHadPzMy/6bf1c203dbaaa4aefa94f7b489b21143/c89e0f16-b312-4abd-94ea-51da6e753396_desktop_retina?auto=format&fp-x=0.41&fp-y=0.43",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 41,
+						"focusY": 43
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/6xyilXqpmR4jSLTUBqTqzw/2b79a0c6e94721d5d90a595b681240de/35f839fe-e084-406b-af90-946b5d840517_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3CeF1D0z2tXx3UfHadPzMy/6bf1c203dbaaa4aefa94f7b489b21143/c89e0f16-b312-4abd-94ea-51da6e753396_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 41,
+				"focus_y": 43,
+				"alternative_text": "A photo of a young businessman, happily leaving his work pushing his bicycle."
+			},
+			{
+				"id": "2525ebd2-3a7b-437d-8bd1-341f21bfffe7",
+				"position": null,
+				"caption": "Calm in the Storm",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4zkp97dzXwrJ2jjUkeeUSS/ef7ef515a34c023ac050975207158776/9e34fdfe-4dab-4df8-8587-48a4657dcb6e_desktop?auto=format&fp-x=0.31&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 31,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/jkqeu8PLBceaeS1RaES8P/38fc676f50ba2c4ffa82587db9e1818a/d1541f11-0cf9-4d17-bfc1-264938cf8810_desktop_retina?auto=format&fp-x=0.31&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 31,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/4zkp97dzXwrJ2jjUkeeUSS/ef7ef515a34c023ac050975207158776/9e34fdfe-4dab-4df8-8587-48a4657dcb6e_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/jkqeu8PLBceaeS1RaES8P/38fc676f50ba2c4ffa82587db9e1818a/d1541f11-0cf9-4d17-bfc1-264938cf8810_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 31,
+				"focus_y": 50,
+				"alternative_text": "A photo of a lighthouse overcome with surf associated with a big storm."
+			},
+			{
+				"id": "20b50744-e7d2-457b-ae52-324b0beab2cd",
+				"position": null,
+				"caption": "Loves the Social Scene",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/44rgBsVQf8xVmWThi5w26h/2176aeea7957315b3a8c7d5bf485d21c/b8b1d982-9384-404f-891c-1b51b7ae01bd_desktop?auto=format&fp-x=0.44&fp-y=0.52",
+						"width": 1000,
+						"height": 625,
+						"focusX": 44,
+						"focusY": 52
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7eSlxiamLy0QlP0saH5zFT/961f66962bb1f10eec28e7dd04a7ea0e/10159f3c-daae-4575-9e52-d6fccc133193_desktop_retina?auto=format&fp-x=0.44&fp-y=0.52",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 44,
+						"focusY": 52
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/44rgBsVQf8xVmWThi5w26h/2176aeea7957315b3a8c7d5bf485d21c/b8b1d982-9384-404f-891c-1b51b7ae01bd_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/7eSlxiamLy0QlP0saH5zFT/961f66962bb1f10eec28e7dd04a7ea0e/10159f3c-daae-4575-9e52-d6fccc133193_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 44,
+				"focus_y": 52,
+				"alternative_text": "A photo of friends dining together in a restaurant, who are smiling and posing for a selfie on one of their cell phones."
+			},
+			{
+				"id": "f8b5b529-80a7-48a7-890c-766c4d20cadb",
+				"position": null,
+				"caption": "Idealist",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5aeJjis7OarrOduwF8WiAK/5f61bd889ebe28773ce3b3ed23b82033/60d462fb-82a0-4753-b008-c04764e36367_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4uCCySDy16sotnfC4kVTxd/212932731924c27358ca0edcc5c3fff3/7a14409f-547d-41a0-a0b2-e37d8efd02ee_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5aeJjis7OarrOduwF8WiAK/5f61bd889ebe28773ce3b3ed23b82033/60d462fb-82a0-4753-b008-c04764e36367_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4uCCySDy16sotnfC4kVTxd/212932731924c27358ca0edcc5c3fff3/7a14409f-547d-41a0-a0b2-e37d8efd02ee_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of flags from different nations flying on poles together."
+			},
+			{
+				"id": "4b2a4c3b-5813-4a8a-812b-619aeb32b739",
+				"position": null,
+				"caption": "Joke Teller",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3lllHdSLmSww5iVBTh7YwI/dd4874421cdfbe0f374a533d84b473f1/f9c8702c-ea53-4208-8839-9dedbba49ae3_desktop?auto=format&fp-x=0.75&fp-y=0.47",
+						"width": 1000,
+						"height": 625,
+						"focusX": 75,
+						"focusY": 47
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1XQmt2uuy1hAhKByu9nvlb/58cabde36a4c4f7e63fb1ed997b52e15/6ac724c2-1891-4a27-b16f-84fba00319b2_desktop_retina?auto=format&fp-x=0.75&fp-y=0.47",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 75,
+						"focusY": 47
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3lllHdSLmSww5iVBTh7YwI/dd4874421cdfbe0f374a533d84b473f1/f9c8702c-ea53-4208-8839-9dedbba49ae3_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1XQmt2uuy1hAhKByu9nvlb/58cabde36a4c4f7e63fb1ed997b52e15/6ac724c2-1891-4a27-b16f-84fba00319b2_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 75,
+				"focus_y": 47,
+				"alternative_text": "A photo of four friends drinking and laughing, one of them telling a story."
+			},
+			{
+				"id": "2ea19c7f-bf2b-4dc0-9bd3-b7e8566a54eb",
+				"position": null,
+				"caption": "Innovative",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3dJxJS3uxODnM02Jt8p6GX/1f4975b9019e24b028f1dcf4d99b7e23/ee566dfc-0c07-4987-b497-ce6b54830a3e_desktop?auto=format&fp-x=0.75&fp-y=0.73",
+						"width": 1000,
+						"height": 625,
+						"focusX": 75,
+						"focusY": 73
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3JwNne7xuxSBBEnrM5YaNr/aa9cd95e665db60ab2a4aea7b027d809/bc98004c-0e07-415d-b601-6b40d047c44d_desktop_retina?auto=format&fp-x=0.75&fp-y=0.73",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 75,
+						"focusY": 73
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3dJxJS3uxODnM02Jt8p6GX/1f4975b9019e24b028f1dcf4d99b7e23/ee566dfc-0c07-4987-b497-ce6b54830a3e_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3JwNne7xuxSBBEnrM5YaNr/aa9cd95e665db60ab2a4aea7b027d809/bc98004c-0e07-415d-b601-6b40d047c44d_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 75,
+				"focus_y": 73,
+				"alternative_text": "A photo of a group of young adults working on a robotic project together."
+			},
+			{
+				"id": "d37352e4-d1a8-4aa0-9ace-ec37d938743f",
+				"position": null,
+				"caption": "Very Sensitive",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3QU1OBukSymkQXvNcwVPbK/eb424790ff18b266448af4657b8b7e51/73b5e203-ee17-4981-9afe-a5c1b44eda83_desktop?auto=format&fp-x=0.45&fp-y=0.51",
+						"width": 1000,
+						"height": 625,
+						"focusX": 45,
+						"focusY": 51
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3v8i4ipz3AZPbolhF39Puw/724c97ff88d68de12d203aa0ba46b56c/470729aa-7422-4c61-880a-816adbd8f3ce_desktop_retina?auto=format&fp-x=0.45&fp-y=0.51",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 45,
+						"focusY": 51
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3QU1OBukSymkQXvNcwVPbK/eb424790ff18b266448af4657b8b7e51/73b5e203-ee17-4981-9afe-a5c1b44eda83_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3v8i4ipz3AZPbolhF39Puw/724c97ff88d68de12d203aa0ba46b56c/470729aa-7422-4c61-880a-816adbd8f3ce_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 45,
+				"focus_y": 51,
+				"alternative_text": "A photo of a young woman sitting on a terrace looking over the balcony with a serious expression on her face."
+			},
+			{
+				"id": "f029c9e2-e3b3-4626-ad64-214def00cb27",
+				"position": null,
+				"caption": "Routines",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6al3e0922ONKd26RAYrcWF/7a645d78e854e5350162bf4b62dec479/e49fe49d-fc29-4ab3-87d8-8ab12862a6e7_desktop?auto=format&fp-x=0.38&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 38,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4g5Q5ipSsCT5eg3cyYyRJE/97ef30d19a6b39499832833c7b3620a8/24f2a02e-1c51-49ae-9766-ed28696d0c6f_desktop_retina?auto=format&fp-x=0.38&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 38,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/6al3e0922ONKd26RAYrcWF/7a645d78e854e5350162bf4b62dec479/e49fe49d-fc29-4ab3-87d8-8ab12862a6e7_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4g5Q5ipSsCT5eg3cyYyRJE/97ef30d19a6b39499832833c7b3620a8/24f2a02e-1c51-49ae-9766-ed28696d0c6f_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 38,
+				"focus_y": 49,
+				"alternative_text": "A photo of a woman in an apron hanging a chalkboard menu outside a restaurant."
+			},
+			{
+				"id": "f13fce98-a4cd-446e-9553-af8d04855f22",
+				"position": null,
+				"caption": "That's Too Much Work",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2lx7CTMM06m7jX1FO47s5e/23a7a3995bf348317dc6942bd0cab68d/5d0ac324-b77f-4d39-ade4-8b992d6b53dd_desktop?auto=format&fp-x=0.38&fp-y=0.53",
+						"width": 1000,
+						"height": 625,
+						"focusX": 38,
+						"focusY": 53
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/16qEOa7zyOJ2G5w2bl9ReI/0703ca5ac6362b05cd5a9080687546e1/898acc44-9726-469a-8290-5c326fb767d3_desktop_retina?auto=format&fp-x=0.38&fp-y=0.53",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 38,
+						"focusY": 53
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/2lx7CTMM06m7jX1FO47s5e/23a7a3995bf348317dc6942bd0cab68d/5d0ac324-b77f-4d39-ade4-8b992d6b53dd_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/16qEOa7zyOJ2G5w2bl9ReI/0703ca5ac6362b05cd5a9080687546e1/898acc44-9726-469a-8290-5c326fb767d3_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 38,
+				"focus_y": 53,
+				"alternative_text": "A photo of a school girl looking at stacks of books piled on a library table."
+			},
+			{
+				"id": "506319da-8add-4cbf-9754-631e04b101fa",
+				"position": null,
+				"caption": "Top of My Game",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/R6PRPsqKP1WcvhaJEE2A5/841b856adcf26a3bc66cc125812e2d4f/89ded173-7195-4ec4-9062-8b8ba231baaf_desktop?auto=format&fp-x=0.56&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 56,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/60KwbF3e9RUyfUessyZBUu/13d1e4d684be21e7a1342d8cc6967dcf/7f63c57b-b98a-4160-9a1a-7e655c7e43a5_desktop_retina?auto=format&fp-x=0.56&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 56,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/R6PRPsqKP1WcvhaJEE2A5/841b856adcf26a3bc66cc125812e2d4f/89ded173-7195-4ec4-9062-8b8ba231baaf_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/60KwbF3e9RUyfUessyZBUu/13d1e4d684be21e7a1342d8cc6967dcf/7f63c57b-b98a-4160-9a1a-7e655c7e43a5_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 56,
+				"focus_y": 50,
+				"alternative_text": "A photo of a young woman in athletic clothes with her arms raised in the air in a victorious stance."
+			},
+			{
+				"id": "301ce0f7-da79-4308-8189-6dd34868d359",
+				"position": null,
+				"caption": "Watchful",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1vL8iVgwDKKgPGcuNxDs6u/41ad965a446ed8a17b30920df3dc8b3a/a692bd8d-43fb-48f4-b917-3163d8ad0760_desktop?auto=format&fp-x=0.69&fp-y=0.53",
+						"width": 1000,
+						"height": 625,
+						"focusX": 69,
+						"focusY": 53
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1lU9d9pDiL9zfHMJoXcFUZ/b361ffec07b5601fdf952fe90d9c111b/0f575001-080b-4edb-ab1d-ec5ba71e73c9_desktop_retina?auto=format&fp-x=0.69&fp-y=0.53",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 69,
+						"focusY": 53
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/1vL8iVgwDKKgPGcuNxDs6u/41ad965a446ed8a17b30920df3dc8b3a/a692bd8d-43fb-48f4-b917-3163d8ad0760_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1lU9d9pDiL9zfHMJoXcFUZ/b361ffec07b5601fdf952fe90d9c111b/0f575001-080b-4edb-ab1d-ec5ba71e73c9_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 69,
+				"focus_y": 53,
+				"alternative_text": "A photo of a businessman peering over a cubicle wall."
+			},
+			{
+				"id": "bc50f2ff-89e7-4177-aac0-acba3fffcbc1",
+				"position": null,
+				"caption": "High Speed",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5DNIWu8AIb7lxf2dN5Z6at/9ec19ba53455d2b5cb6816ce4345bd57/f4fbd027-c2cf-4619-a7d3-cbf4ab6f81c2_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6jrLn9l73mQdkZdk2OT8vp/7b3508d11d1860b5f76e591fd0507ffd/816d5a31-5860-4a3a-ba82-5293d8bb7403_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5DNIWu8AIb7lxf2dN5Z6at/9ec19ba53455d2b5cb6816ce4345bd57/f4fbd027-c2cf-4619-a7d3-cbf4ab6f81c2_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/6jrLn9l73mQdkZdk2OT8vp/7b3508d11d1860b5f76e591fd0507ffd/816d5a31-5860-4a3a-ba82-5293d8bb7403_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A blurry photo of a highway taken from a vehicle traveling at a high speed."
+			},
+			{
+				"id": "565f7bf6-b800-4801-9e45-dbb150cb47ba",
+				"position": null,
+				"caption": "Good Enough",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6EnROD8lw1tb0ycxCSATyv/5c00b91f826b87778fbe20da5f7dd50d/47a10353-364c-4d13-bf80-75cdcd125b6a_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2O4m6CoWQvxKYts8GVKBbE/34f8fbf94fd3e4b3ea033ae4fdcc35f0/1c334864-4c2e-4e75-846f-1c54c3f55941_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/6EnROD8lw1tb0ycxCSATyv/5c00b91f826b87778fbe20da5f7dd50d/47a10353-364c-4d13-bf80-75cdcd125b6a_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/2O4m6CoWQvxKYts8GVKBbE/34f8fbf94fd3e4b3ea033ae4fdcc35f0/1c334864-4c2e-4e75-846f-1c54c3f55941_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a plate with a plain grilled hamburger patty on roll."
+			},
+			{
+				"id": "185b0bf0-5a58-4fd5-a51b-2a0c3eac64c3",
+				"position": null,
+				"caption": "Resist Temptation",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4uCgBE08vKerMVeBHnVk4D/423191fd9d9b8f8b0b28b99e3ce835e1/5be4b96d-86a0-4623-be20-e3fa81236ec4_desktop?auto=format&fp-x=0.57&fp-y=0.51",
+						"width": 1000,
+						"height": 625,
+						"focusX": 57,
+						"focusY": 51
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3NpQ93LjRC5ge7QPl3osv0/3462bc7a199d01a544528162ceb58432/7ba4e331-792e-49e0-a7e7-1636dc0b69a6_desktop_retina?auto=format&fp-x=0.57&fp-y=0.51",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 57,
+						"focusY": 51
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/4uCgBE08vKerMVeBHnVk4D/423191fd9d9b8f8b0b28b99e3ce835e1/5be4b96d-86a0-4623-be20-e3fa81236ec4_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3NpQ93LjRC5ge7QPl3osv0/3462bc7a199d01a544528162ceb58432/7ba4e331-792e-49e0-a7e7-1636dc0b69a6_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 57,
+				"focus_y": 51,
+				"alternative_text": "A photo of a woman looking at cupcakes in a display window."
+			},
+			{
+				"id": "bbaac0da-5fc7-4d86-b4c2-12d080f1ac5c",
+				"position": null,
+				"caption": "Me First",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4SY8ckfQrmvQnUGaQtNyty/704249d522d052837dc416919b25670f/6c213752-302d-46dc-a193-55cc22e2dc1d_desktop?auto=format&fp-x=0.51&fp-y=0.51",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 51,
+						"focusY": 51
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/373e1kAj4wPOWVK9FGVNGP/12efd13d1ffe9957598d9a183f79503e/c1bb3fd8-9e81-4c19-b238-decbcf00fd48_desktop_retina?auto=format&fp-x=0.51&fp-y=0.51",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 51,
+						"focusY": 51
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/4SY8ckfQrmvQnUGaQtNyty/704249d522d052837dc416919b25670f/6c213752-302d-46dc-a193-55cc22e2dc1d_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/373e1kAj4wPOWVK9FGVNGP/12efd13d1ffe9957598d9a183f79503e/c1bb3fd8-9e81-4c19-b238-decbcf00fd48_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 51,
+				"focus_y": 51,
+				"alternative_text": "A photo of two different hands reaching for the last piece of pizza in the pizza box."
+			},
+			{
+				"id": "0e6ac7fc-13c4-47e6-8b39-990e1e49ec3c",
+				"position": null,
+				"caption": "Creature Of Habit",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5yeHQMk83ce4Ktzg3VKRVM/3abd88ac84ba1cdec91b1281157724d3/5cab60c8-82f5-4c73-8c2b-3bbdcffc9bbc_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5EuytHkdSJgLvq3rKqszeI/f11e63fb7aacc1834256a2987e87327e/d7381082-ab5f-45f1-be2d-76d0bdfa0b6a_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5yeHQMk83ce4Ktzg3VKRVM/3abd88ac84ba1cdec91b1281157724d3/5cab60c8-82f5-4c73-8c2b-3bbdcffc9bbc_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/5EuytHkdSJgLvq3rKqszeI/f11e63fb7aacc1834256a2987e87327e/d7381082-ab5f-45f1-be2d-76d0bdfa0b6a_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a woman’s arms smoothing out sheets while making a bed."
+			},
+			{
+				"id": "a144f95a-0dc1-4b2a-b250-dfb26b60b397",
+				"position": null,
+				"caption": "Future-Oriented",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7mblFZ5LqjI5sqXgZglttn/0a8ba1b88a63e93b7ff2542f6e717447/181b1e2c-0c47-4136-896f-196255ba6132_desktop?auto=format&fp-x=0.62&fp-y=0.55",
+						"width": 1000,
+						"height": 625,
+						"focusX": 62,
+						"focusY": 55
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4hGJ3l3WR2tPhdOrN2s9bF/6ccdcf7fbfed8731acc4643de0dcf1e0/64195c37-38e0-4b30-a8e5-4a216ce96b7c_desktop_retina?auto=format&fp-x=0.62&fp-y=0.55",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 62,
+						"focusY": 55
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/7mblFZ5LqjI5sqXgZglttn/0a8ba1b88a63e93b7ff2542f6e717447/181b1e2c-0c47-4136-896f-196255ba6132_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4hGJ3l3WR2tPhdOrN2s9bF/6ccdcf7fbfed8731acc4643de0dcf1e0/64195c37-38e0-4b30-a8e5-4a216ce96b7c_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 62,
+				"focus_y": 55,
+				"alternative_text": "A photo of a solar-paneled roof and windmills generating energy."
+			},
+			{
+				"id": "8ade7c57-1c01-469b-af04-b336bd285902",
+				"position": null,
+				"caption": "Skydiving",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7LVpCT8mHijjAIxehaN1Rz/db0c8dcf688cb94d754c61c2f1c62d3e/8d323b39-d6f6-4e4b-a55f-27a86889bdb3_desktop?auto=format&fp-x=0.45&fp-y=0.53",
+						"width": 1000,
+						"height": 625,
+						"focusX": 45,
+						"focusY": 53
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3KWc68uihNPMVX77Kv5lLs/50478571985bab27a9bb83894258e8a6/0a75ded6-2bf4-458e-9e91-6f560659be21_desktop_retina?auto=format&fp-x=0.45&fp-y=0.53",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 45,
+						"focusY": 53
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/7LVpCT8mHijjAIxehaN1Rz/db0c8dcf688cb94d754c61c2f1c62d3e/8d323b39-d6f6-4e4b-a55f-27a86889bdb3_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3KWc68uihNPMVX77Kv5lLs/50478571985bab27a9bb83894258e8a6/0a75ded6-2bf4-458e-9e91-6f560659be21_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 45,
+				"focus_y": 53,
+				"alternative_text": "A photo of a parachuter taken from the back, just before a jump from a helicopter."
+			},
+			{
+				"id": "7f74e429-2d5f-4728-a84e-518048eddc2d",
+				"position": null,
+				"caption": "Always Plans Ahead",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/52R55FySAEeLJhP0qNOVFS/1989a050e879b854e1409b46e1fe617e/60cc5215-62b9-40b7-b507-54e42dbb4006_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4T1dfvLRXWQIvKTkVugHZj/33a51b3c3918ff8ffda0b6320205297f/4f412bdb-6a43-4a1a-973f-6aebe7dee2d2_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/52R55FySAEeLJhP0qNOVFS/1989a050e879b854e1409b46e1fe617e/60cc5215-62b9-40b7-b507-54e42dbb4006_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4T1dfvLRXWQIvKTkVugHZj/33a51b3c3918ff8ffda0b6320205297f/4f412bdb-6a43-4a1a-973f-6aebe7dee2d2_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a close up of a woman’s hands as she checks off items on a grocery shopping list."
+			},
+			{
+				"id": "b12fd0e2-fa9a-476e-b75c-c601d35b380c",
+				"position": null,
+				"caption": "Traditional",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3oLwKQ6Pz3aiiSGaYr7C23/f6e9c483bf47b5aa8383e0f8b24a3305/72c8d18d-0aee-4663-ae3a-1b51cf8231be_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7IMb6ZpV84IzgQOVQcshhn/ad54d6b6b3ac9f6208953e36f9c572c8/4aeeaddd-3cbe-4500-9dce-e9e713b64a0c_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3oLwKQ6Pz3aiiSGaYr7C23/f6e9c483bf47b5aa8383e0f8b24a3305/72c8d18d-0aee-4663-ae3a-1b51cf8231be_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/7IMb6ZpV84IzgQOVQcshhn/ad54d6b6b3ac9f6208953e36f9c572c8/4aeeaddd-3cbe-4500-9dce-e9e713b64a0c_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of an older person’s hands, covered in flour and holding a wooden spoon, resting on a handwritten cookbook."
+			},
+			{
+				"id": "efb88fba-4752-4724-a237-e0676f922dc2",
+				"position": null,
+				"caption": "Caretaking",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4xAxQpnhF3NftpcCbYYJnL/6463b4edc26f17cef781720f43dd3f34/e534a06d-5604-4a0f-afc2-209964bf2d0a_desktop?auto=format&fp-x=0.40&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 40,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/35NrWWJIUXXrjskNajDoWv/a6a7fd73766efc605967efb3412465e1/d9c5dd15-ca6b-41be-b229-c20300f997c2_desktop_retina?auto=format&fp-x=0.40&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 40,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/4xAxQpnhF3NftpcCbYYJnL/6463b4edc26f17cef781720f43dd3f34/e534a06d-5604-4a0f-afc2-209964bf2d0a_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/35NrWWJIUXXrjskNajDoWv/a6a7fd73766efc605967efb3412465e1/d9c5dd15-ca6b-41be-b229-c20300f997c2_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 40,
+				"focus_y": 49,
+				"alternative_text": "A photo of a woman pushing a senior man in a wheelchair outdoors in a park."
+			},
+			{
+				"id": "bb1eded6-4a5a-4691-9905-64d59155b0e3",
+				"position": null,
+				"caption": "Throw the Book At Them",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6ltuVWwqmhm436IOrfI2hp/29ee9b8f1f955b99478d1b0524b4fd2f/c57aa007-f470-4987-b635-6dd31267fa7e_desktop?auto=format&fp-x=0.39&fp-y=0.48",
+						"width": 1000,
+						"height": 625,
+						"focusX": 39,
+						"focusY": 48
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5538lguwX1RwuZEOA0Cf3o/beba3667c2a420f8340eb99f00f43448/9931fdcd-1d26-41ee-b11c-d90ae9fc8a80_desktop_retina?auto=format&fp-x=0.39&fp-y=0.48",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 39,
+						"focusY": 48
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/6ltuVWwqmhm436IOrfI2hp/29ee9b8f1f955b99478d1b0524b4fd2f/c57aa007-f470-4987-b635-6dd31267fa7e_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/5538lguwX1RwuZEOA0Cf3o/beba3667c2a420f8340eb99f00f43448/9931fdcd-1d26-41ee-b11c-d90ae9fc8a80_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 39,
+				"focus_y": 48,
+				"alternative_text": "A photo of two people looking at two dented cars after a car accident, with their hands up in the air."
+			},
+			{
+				"id": "89d9b415-5053-4da0-9554-0e9b1f69f055",
+				"position": null,
+				"caption": "Competitive",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3dXuhGozP1bfWRSSEhtrGd/318fc4106e621fab864c512042fac2e5/d9dd988f-f65f-4fb6-981a-1648c1d4cac1_desktop?auto=format&fp-x=0.50&fp-y=0.48",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 48
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7t1RsQ8Fm0U0fdGcMd2YTI/939972bb3a04a393078ccb3220af25ee/28b89cb8-5648-4a61-a204-d0e16ac4cfd6_desktop_retina?auto=format&fp-x=0.50&fp-y=0.48",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 48
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3dXuhGozP1bfWRSSEhtrGd/318fc4106e621fab864c512042fac2e5/d9dd988f-f65f-4fb6-981a-1648c1d4cac1_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/7t1RsQ8Fm0U0fdGcMd2YTI/939972bb3a04a393078ccb3220af25ee/28b89cb8-5648-4a61-a204-d0e16ac4cfd6_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 48,
+				"alternative_text": "A photo of two chefs, facing off with their newly made dishes sitting in front of them."
+			},
+			{
+				"id": "7c33618c-ff55-485a-8fe9-c66b113bb31d",
+				"position": null,
+				"caption": "Dislikes Change",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7yaNdqBsn01cBFYAfG8EIB/0ee8aa59c1e45d7e184530cb6c0e0902/743df2d2-cfe3-4cff-89d2-a01fc374a310_desktop?auto=format&fp-x=0.71&fp-y=0.37",
+						"width": 1000,
+						"height": 625,
+						"focusX": 71,
+						"focusY": 37
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5ZnlugbHdfLhcUjAlD3j1B/796d3dc1d9f4c53b30400a10b512db8a/e8cd20d7-e781-45db-b5cd-eaf720cdfe90_desktop_retina?auto=format&fp-x=0.71&fp-y=0.37",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 71,
+						"focusY": 37
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/7yaNdqBsn01cBFYAfG8EIB/0ee8aa59c1e45d7e184530cb6c0e0902/743df2d2-cfe3-4cff-89d2-a01fc374a310_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/5ZnlugbHdfLhcUjAlD3j1B/796d3dc1d9f4c53b30400a10b512db8a/e8cd20d7-e781-45db-b5cd-eaf720cdfe90_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 71,
+				"focus_y": 37,
+				"alternative_text": "A photo of a row of old fashioned seats at a diner."
+			},
+			{
+				"id": "b29b503e-d8ab-41a9-b306-6cae1579f882",
+				"position": null,
+				"caption": "Fundraisers",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5Y256TnL1Nht7QprF9Lm5i/6f497e207cf118b7ea82594f47cec10e/553d9110-18ae-4d13-bf34-c4cc64f42b5e_desktop?auto=format&fp-x=0.58&fp-y=0.55",
+						"width": 1000,
+						"height": 625,
+						"focusX": 58,
+						"focusY": 55
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7aqRtrPZKIfySfJFasRSXV/705b1837cffbba83e940378144545e77/9fc83ad1-c1c9-4365-aa65-614416d19017_desktop_retina?auto=format&fp-x=0.58&fp-y=0.55",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 58,
+						"focusY": 55
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5Y256TnL1Nht7QprF9Lm5i/6f497e207cf118b7ea82594f47cec10e/553d9110-18ae-4d13-bf34-c4cc64f42b5e_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/7aqRtrPZKIfySfJFasRSXV/705b1837cffbba83e940378144545e77/9fc83ad1-c1c9-4365-aa65-614416d19017_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 58,
+				"focus_y": 55,
+				"alternative_text": "A photo of a woman’s hand arranging baked goods with labels and prices on a table for a fundraiser."
+			},
+			{
+				"id": "8f7b13c0-86e4-4302-8b6c-21aaaf6643a2",
+				"position": null,
+				"caption": "Overcoming Obstacles",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4A7FlbItUGvAOJS6ZOVjC7/850e4972a69da112fbe83c2b0c2c0df4/2aca418d-3371-4b28-9d01-9edf99ffe23d_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1K0SgqRhXvqKtmcCgPK0bt/126d6c6fcf623281c1c35f84746a715f/70c7e3a9-fd88-4728-90e1-8431b0a32b2b_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/4A7FlbItUGvAOJS6ZOVjC7/850e4972a69da112fbe83c2b0c2c0df4/2aca418d-3371-4b28-9d01-9edf99ffe23d_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1K0SgqRhXvqKtmcCgPK0bt/126d6c6fcf623281c1c35f84746a715f/70c7e3a9-fd88-4728-90e1-8431b0a32b2b_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a man and a woman climbing over a wooden wall, during mud-challenge obstacle course."
+			},
+			{
+				"id": "6bbbd5b2-8819-4878-bdca-dcaeeab3e871",
+				"position": null,
+				"caption": "Relentless",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/43TIqc6rA8MCvWZByWHuJY/090046cac1103ceb3912fecc27fe3ead/11506d8b-4761-45a6-9837-fc1e714a138d_desktop?auto=format&fp-x=0.70&fp-y=0.65",
+						"width": 1000,
+						"height": 625,
+						"focusX": 70,
+						"focusY": 65
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6f7x2UWZNKbB4UMfnAJ08R/5ec44951befd4c2f5bbdbc0ba1b33d92/16e45f36-ab44-49f4-aa5a-95769e226405_desktop_retina?auto=format&fp-x=0.70&fp-y=0.65",
+						"width": 2272,
+						"height": 1421,
+						"focusX": 70,
+						"focusY": 65
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/43TIqc6rA8MCvWZByWHuJY/090046cac1103ceb3912fecc27fe3ead/11506d8b-4761-45a6-9837-fc1e714a138d_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/6f7x2UWZNKbB4UMfnAJ08R/5ec44951befd4c2f5bbdbc0ba1b33d92/16e45f36-ab44-49f4-aa5a-95769e226405_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 70,
+				"focus_y": 65,
+				"alternative_text": "A photo of a small green plant which has surfaced through a crack in the concrete and is growing."
+			},
+			{
+				"id": "99fdd71e-2d70-4ea2-8002-b1d26d448980",
+				"position": null,
+				"caption": "Perfectionism",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3zCt822enE2W59EBxqUr7L/aec3837ebf47858c44cea28600696bc6/7689ed68-7c8c-420e-880b-c98f83ab2a89_desktop?auto=format&fp-x=0.58&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 58,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6YPmxxPyGr9alaJIdIfBFU/d55ea9bad3324667ba6daf75d0b91c6f/d336e450-b39b-4149-bd7a-e371763b634b_desktop_retina?auto=format&fp-x=0.58&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 58,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3zCt822enE2W59EBxqUr7L/aec3837ebf47858c44cea28600696bc6/7689ed68-7c8c-420e-880b-c98f83ab2a89_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/6YPmxxPyGr9alaJIdIfBFU/d55ea9bad3324667ba6daf75d0b91c6f/d336e450-b39b-4149-bd7a-e371763b634b_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 58,
+				"focus_y": 49,
+				"alternative_text": "A photo of a man carefully detailing the inside of a car."
+			},
+			{
+				"id": "80cad1bf-d63f-49b0-a110-29974219f262",
+				"position": null,
+				"caption": "Take Chances",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6HnvlBFJNcOrIj90uv9Z2e/4a4f093917d34b36710eeb69fcf05baf/77492e2b-6bab-46da-ac8d-79190857218e_desktop?auto=format&fp-x=0.67&fp-y=0.48",
+						"width": 1000,
+						"height": 625,
+						"focusX": 67,
+						"focusY": 48
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1HnSOj3jAAxFMTdtIG2d8l/fa56f540452714d791bb86e026bad416/c55546d2-d838-46e1-9e77-f52be23dd760_desktop_retina?auto=format&fp-x=0.67&fp-y=0.48",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 67,
+						"focusY": 48
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/6HnvlBFJNcOrIj90uv9Z2e/4a4f093917d34b36710eeb69fcf05baf/77492e2b-6bab-46da-ac8d-79190857218e_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1HnSOj3jAAxFMTdtIG2d8l/fa56f540452714d791bb86e026bad416/c55546d2-d838-46e1-9e77-f52be23dd760_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 67,
+				"focus_y": 48,
+				"alternative_text": "A photo of a young man rock climbing outside with a thin rope, apparently by himself."
+			},
+			{
+				"id": "f85f0aa9-d3a0-4301-b6b4-565a8e955a84",
+				"position": null,
+				"caption": "Chats in Elevators",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5bKovpsY2XXpgWiXqTC9yf/aacfe745d3165a60ae310c52f8daea01/0ef7741f-f12c-4fd9-a454-4431ec58e39b_desktop?auto=format&fp-x=0.64&fp-y=0.53",
+						"width": 1000,
+						"height": 625,
+						"focusX": 64,
+						"focusY": 53
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7DzH28xygPqMKoyHoVFHCl/ca393625b515ff3b3efbdd92d2f2b25d/36183c28-ba66-448c-aeb5-274976314b98_desktop_retina?auto=format&fp-x=0.64&fp-y=0.53",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 64,
+						"focusY": 53
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5bKovpsY2XXpgWiXqTC9yf/aacfe745d3165a60ae310c52f8daea01/0ef7741f-f12c-4fd9-a454-4431ec58e39b_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/7DzH28xygPqMKoyHoVFHCl/ca393625b515ff3b3efbdd92d2f2b25d/36183c28-ba66-448c-aeb5-274976314b98_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 64,
+				"focus_y": 53,
+				"alternative_text": "A photo of a group of young women, laughing and talking, with shopping bags in their arms."
+			},
+			{
+				"id": "d3bca2bb-fba9-476f-9dc2-d1a50ff30619",
+				"position": null,
+				"caption": "Drained by People",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3yuMjZjcQa0PkU6eGb7Lmn/39a1568858d7adf3eaecaa222bb50f91/56d268b9-2e1e-4845-a200-340a59d807cd_desktop?auto=format&fp-x=0.44&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 44,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/vf2iMWW03B8YXKsEE28gV/2f438ba33a61b3247097bde66d5f22be/c52d8655-3838-49b9-91e3-bb9420135bfa_desktop_retina?auto=format&fp-x=0.44&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 44,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3yuMjZjcQa0PkU6eGb7Lmn/39a1568858d7adf3eaecaa222bb50f91/56d268b9-2e1e-4845-a200-340a59d807cd_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/vf2iMWW03B8YXKsEE28gV/2f438ba33a61b3247097bde66d5f22be/c52d8655-3838-49b9-91e3-bb9420135bfa_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 44,
+				"focus_y": 49,
+				"alternative_text": "A photo of a young woman sitting alone, drinking coffee at a bar, with her hand partially covering her face. In the background, there are other people, including a couple flirting."
+			},
+			{
+				"id": "bee84229-0e2b-4065-a213-ab1845d60deb",
+				"position": null,
+				"caption": "Thin-Skinned",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7o3nsm5P38DoUrnhFfCTLW/746149b1d48918bbd328de115790fdca/9bce2d27-44df-4c0c-9e31-4059b2933dce_desktop?auto=format&fp-x=0.31&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 31,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1kKl1fgrKJKPCDz7IxVxcu/dbdf0f938a0481f8fee82f71d0056280/01df9461-d967-4932-ad8d-3c91bfaa394d_desktop_retina?auto=format&fp-x=0.31&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 31,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/7o3nsm5P38DoUrnhFfCTLW/746149b1d48918bbd328de115790fdca/9bce2d27-44df-4c0c-9e31-4059b2933dce_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1kKl1fgrKJKPCDz7IxVxcu/dbdf0f938a0481f8fee82f71d0056280/01df9461-d967-4932-ad8d-3c91bfaa394d_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 31,
+				"focus_y": 49,
+				"alternative_text": "A photo of a young, thoughtful woman sitting on a curb, looking down at her hands resting on her knees."
+			},
+			{
+				"id": "773c0d40-8ef4-4bea-9ee0-d2b688d36956",
+				"position": null,
+				"caption": "Always on the Go",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5tgBUGpdYFKCxGIXw3wlDc/efc559a1394bc8d9449e8ece6e4cb851/c873ffad-2241-4dfa-8c09-3d04336cfcdd_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3uhhsM3azcG96AkrXGtFHp/28737527c92473e8a3a1c07d32c71fe9/3a8b5c58-9760-4ed3-8881-6b788900a95c_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5tgBUGpdYFKCxGIXw3wlDc/efc559a1394bc8d9449e8ece6e4cb851/c873ffad-2241-4dfa-8c09-3d04336cfcdd_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3uhhsM3azcG96AkrXGtFHp/28737527c92473e8a3a1c07d32c71fe9/3a8b5c58-9760-4ed3-8881-6b788900a95c_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a businessman who runs quickly up a set of stairs outside a building."
+			},
+			{
+				"id": "0db65bec-1617-4b4e-a866-fd9754a1b34c",
+				"position": null,
+				"caption": "Not My Job",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3gfSlD1Vttg2xVYQ4UOkXv/b8488a45a63bd3b81be6181922554134/1fe225cc-bbcd-4b0a-9314-ae1ea6737061_desktop?auto=format&fp-x=0.65&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 65,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1bXIiPLyQT49NXWG4qPf9x/bf7962f404e901f36c29f5627ec8a1d9/d2079f9e-fd44-4a5b-a483-e9d9a9145fd9_desktop_retina?auto=format&fp-x=0.65&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 65,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3gfSlD1Vttg2xVYQ4UOkXv/b8488a45a63bd3b81be6181922554134/1fe225cc-bbcd-4b0a-9314-ae1ea6737061_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1bXIiPLyQT49NXWG4qPf9x/bf7962f404e901f36c29f5627ec8a1d9/d2079f9e-fd44-4a5b-a483-e9d9a9145fd9_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 65,
+				"focus_y": 50,
+				"alternative_text": "A photo of a chef in a commercial kitchen handing off plate to someone else."
+			},
+			{
+				"id": "3cb5fe0e-e0ef-48e8-8a33-4c47fcc17957",
+				"position": null,
+				"caption": "Do It My Way",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/72wonU0yQqykfxSN07v0AI/7e722e46cae191afb537469620883a97/faeead94-e527-4acf-b896-44d68a97a8ed_desktop?auto=format&fp-x=0.49&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 49,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3ahEsLMsu3pzxLV4or8Car/4db1862310c338eddd402f89b9c5189a/40b80c4f-4d3a-42f6-85d1-8aa72ee45133_desktop_retina?auto=format&fp-x=0.49&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 49,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/72wonU0yQqykfxSN07v0AI/7e722e46cae191afb537469620883a97/faeead94-e527-4acf-b896-44d68a97a8ed_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3ahEsLMsu3pzxLV4or8Car/4db1862310c338eddd402f89b9c5189a/40b80c4f-4d3a-42f6-85d1-8aa72ee45133_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 49,
+				"focus_y": 49,
+				"alternative_text": "A photo of two construction workers in hardhats talking with a third man who is gesturing strongly to communicate his ideas."
+			},
+			{
+				"id": "1fa80847-f85b-474c-b9df-512b12ef9aa9",
+				"position": null,
+				"caption": "Always Wonder Why",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3knH49MBu0aWs6OV5qTLeo/e8e8909ec6cac4b12e1bc2b24a5380f1/856daedc-dad4-4821-ae25-b3c18e24469a_desktop?auto=format&fp-x=0.55&fp-y=0.48",
+						"width": 1000,
+						"height": 625,
+						"focusX": 55,
+						"focusY": 48
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4w24HvJigY7WzxGMPimspa/92186652b0db40f8000d33d2b005ee69/0646624a-93a2-425c-b347-64fbe461e2fe_desktop_retina?auto=format&fp-x=0.55&fp-y=0.48",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 55,
+						"focusY": 48
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3knH49MBu0aWs6OV5qTLeo/e8e8909ec6cac4b12e1bc2b24a5380f1/856daedc-dad4-4821-ae25-b3c18e24469a_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4w24HvJigY7WzxGMPimspa/92186652b0db40f8000d33d2b005ee69/0646624a-93a2-425c-b347-64fbe461e2fe_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 55,
+				"focus_y": 48,
+				"alternative_text": "A photo of a woman holding a model of DNA and looking at it closely."
+			},
+			{
+				"id": "a99b5f7a-07ea-4913-8dc8-006c961165a8",
+				"position": null,
+				"caption": "Frequently Changing My Mind",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6RjSJY25DwcyBq8XH6WetW/4feec14d6aafd02621553f1626736c6e/7b74f90a-7ae7-4990-9996-a62337b31d0c_desktop?auto=format&fp-x=0.53&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 53,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2iUBvfsQJIgkjqqYVuJKnK/b256fdb90f5d2e5d84789e79a82cc697/5cca8a8f-8f16-4094-b51a-828b99bc07ea_desktop_retina?auto=format&fp-x=0.53&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 53,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/6RjSJY25DwcyBq8XH6WetW/4feec14d6aafd02621553f1626736c6e/7b74f90a-7ae7-4990-9996-a62337b31d0c_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/2iUBvfsQJIgkjqqYVuJKnK/b256fdb90f5d2e5d84789e79a82cc697/5cca8a8f-8f16-4094-b51a-828b99bc07ea_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 53,
+				"focus_y": 50,
+				"alternative_text": "A photo of young man in supermarket comparing bottles of olive oil, rear view, close-up"
+			},
+			{
+				"id": "61b89802-d04f-4007-8217-0a2ebc527ffe",
+				"position": null,
+				"caption": "Enough Already",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/g2d6c7mfzOP10q2MzJIPC/c4e0d32159e0160031f4402a2d3e6934/80991529-0a91-4e7c-b77e-ed6c9534b6f9_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4ov13IXu8d6OmQmgcP6ihk/66979027edf80777d0643edf129918b5/06453093-e8bc-48ee-bd4a-88f9e7911393_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/g2d6c7mfzOP10q2MzJIPC/c4e0d32159e0160031f4402a2d3e6934/80991529-0a91-4e7c-b77e-ed6c9534b6f9_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4ov13IXu8d6OmQmgcP6ihk/66979027edf80777d0643edf129918b5/06453093-e8bc-48ee-bd4a-88f9e7911393_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a woman leaning on a sink full of dishes while children are chasing each other around a table behind her."
+			},
+			{
+				"id": "63c1eb98-8873-4798-a76a-ec14d02988f1",
+				"position": null,
+				"caption": "Dislikes Small Talk",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5J80Ab6QhQ6ngrUhCwymjV/284bac3259608968f41c400237e7268e/e5ef4c15-6504-49fa-b3f6-aca1d15d7f84_desktop?auto=format&fp-x=0.56&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 56,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4QKn4sDtSghmPMTYC9Er3L/e0f247f5b65d36d5b42693ffc837ae07/f1539f22-7787-45a2-a6ac-3f7cc6d6e2a1_desktop_retina?auto=format&fp-x=0.56&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 56,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5J80Ab6QhQ6ngrUhCwymjV/284bac3259608968f41c400237e7268e/e5ef4c15-6504-49fa-b3f6-aca1d15d7f84_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4QKn4sDtSghmPMTYC9Er3L/e0f247f5b65d36d5b42693ffc837ae07/f1539f22-7787-45a2-a6ac-3f7cc6d6e2a1_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 56,
+				"focus_y": 49,
+				"alternative_text": "A photo of a woman in a cafe looking at her phone while sitting next to her friend who is looking at her."
+			},
+			{
+				"id": "df3fdad4-5d3c-4b28-b634-c681bc6a6b66",
+				"position": null,
+				"caption": "Things Happen To Me",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/J0UVjPsJNDZIPmcApCjVS/7fed9cdc8cf34ceb7f9f1f99bcdeb64a/f9bf5c90-34f9-4dec-af38-f7ba49401c3b_desktop?auto=format&fp-x=0.50&fp-y=0.65",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 65
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2Vg9IeANPb8MHkh8fLdpVX/4bce23ea0258f54ad6a23c8474d55b6e/b65d8808-9c5f-48fc-9a51-4b1bdfdd26cf_desktop_retina?auto=format&fp-x=0.50&fp-y=0.65",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 65
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/J0UVjPsJNDZIPmcApCjVS/7fed9cdc8cf34ceb7f9f1f99bcdeb64a/f9bf5c90-34f9-4dec-af38-f7ba49401c3b_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/2Vg9IeANPb8MHkh8fLdpVX/4bce23ea0258f54ad6a23c8474d55b6e/b65d8808-9c5f-48fc-9a51-4b1bdfdd26cf_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 65,
+				"alternative_text": "A photo of a woman who has fallen off her bike and hurt her leg."
+			},
+			{
+				"id": "c3e52551-09b4-49d8-b799-859907104a5a",
+				"position": null,
+				"caption": "Outside of the Box",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2PXmK74qWCLJNnitI6Ni1o/a6d437cabed69a65b5ec338a903b8b1a/3e64eaed-257b-4ba7-a416-1d6e3cd06e48_desktop?auto=format&fp-x=0.64&fp-y=0.51",
+						"width": 1000,
+						"height": 625,
+						"focusX": 64,
+						"focusY": 51
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6VliMrTlzyrXeBn7R9270V/d4bdee4fe5661c1fc46c1ce46fd53478/77861dc6-fff4-47c8-b087-6d83365e28e5_desktop_retina?auto=format&fp-x=0.64&fp-y=0.51",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 64,
+						"focusY": 51
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/2PXmK74qWCLJNnitI6Ni1o/a6d437cabed69a65b5ec338a903b8b1a/3e64eaed-257b-4ba7-a416-1d6e3cd06e48_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/6VliMrTlzyrXeBn7R9270V/d4bdee4fe5661c1fc46c1ce46fd53478/77861dc6-fff4-47c8-b087-6d83365e28e5_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 64,
+				"focus_y": 51,
+				"alternative_text": "A photo of a man and woman shopping for meats in an outside market, which include unusual things like beef tongue and hoofs."
+			},
+			{
+				"id": "78080300-9760-4827-990d-de5173b88ceb",
+				"position": null,
+				"caption": "Procrastination",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/59XGCE3F3kbukPaFdkVFpJ/4554b80b616d2f408fe7722ef56fda87/980de9c2-9796-425d-b82f-44021e1852c2_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1vLzcwDIVzfFgjWpOyZ5Yg/3a6708ec9f94b7d6f9472398489f231d/82c3eda5-9545-480c-8fad-2cdaf13088cf_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/59XGCE3F3kbukPaFdkVFpJ/4554b80b616d2f408fe7722ef56fda87/980de9c2-9796-425d-b82f-44021e1852c2_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1vLzcwDIVzfFgjWpOyZ5Yg/3a6708ec9f94b7d6f9472398489f231d/82c3eda5-9545-480c-8fad-2cdaf13088cf_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of an office worker’s hands playing with magnetic desk puzzle."
+			},
+			{
+				"id": "ceadf477-ec76-4622-b322-8daf5583c717",
+				"position": null,
+				"caption": "Wearing Costumes",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1vpb5ASQB6FaxNYBYl7oic/d99402b4643c143be3fd156d0528d69d/b452ebd8-27b3-4c3d-848a-61aed1cded76_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/6plTvsW1CEZLtzQUs5bkhG/aae2a8d749df1ef7cc966302f01074d5/54658f44-ddb4-4135-81c5-31d8e266219e_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/1vpb5ASQB6FaxNYBYl7oic/d99402b4643c143be3fd156d0528d69d/b452ebd8-27b3-4c3d-848a-61aed1cded76_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/6plTvsW1CEZLtzQUs5bkhG/aae2a8d749df1ef7cc966302f01074d5/54658f44-ddb4-4135-81c5-31d8e266219e_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of an elaborate mask with feathers."
+			},
+			{
+				"id": "72500c70-a2db-4131-9299-921b07108231",
+				"position": null,
+				"caption": "Nose to the Grindstone",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5a8tYPCuur1EhHcs9C9VYX/f23fdff5415c4236b6c0b9c87b8ae066/eb315d62-0ffc-411e-8ae3-bd7979a169f0_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4xIsGC7s3WtWZYMlXbUPiq/4621a5736bf379f87499d5480aa398f3/7ab494fd-6df3-4bc6-b9d3-348ca5b70433_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5a8tYPCuur1EhHcs9C9VYX/f23fdff5415c4236b6c0b9c87b8ae066/eb315d62-0ffc-411e-8ae3-bd7979a169f0_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4xIsGC7s3WtWZYMlXbUPiq/4621a5736bf379f87499d5480aa398f3/7ab494fd-6df3-4bc6-b9d3-348ca5b70433_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a chef plating a dish alone in a commercial kitchen."
+			},
+			{
+				"id": "d2f0baa7-7a7b-4e3c-9702-acc4ba234fce",
+				"position": null,
+				"caption": "Mediator",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/SFvKa8XFfIs6Znen3ByPq/f8ce53840029eb79854f7e655688b98d/92097f87-ba0d-4897-a3dd-fb351e66b0e2_desktop?auto=format&fp-x=0.43&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 43,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4mAzO6w693G3WcQd4uU0yU/e9ce5e2aee79cde256dd1f29ee4d7143/5d7b4b80-0702-401a-8dce-30f159fe8566_desktop_retina?auto=format&fp-x=0.43&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 43,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/SFvKa8XFfIs6Znen3ByPq/f8ce53840029eb79854f7e655688b98d/92097f87-ba0d-4897-a3dd-fb351e66b0e2_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4mAzO6w693G3WcQd4uU0yU/e9ce5e2aee79cde256dd1f29ee4d7143/5d7b4b80-0702-401a-8dce-30f159fe8566_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 43,
+				"focus_y": 50,
+				"alternative_text": "A photo of a man sitting down and talking with a couple seated across from him."
+			},
+			{
+				"id": "684cbadb-3689-45c6-9b28-dfc37e3cbef2",
+				"position": null,
+				"caption": "Fantasy",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2FgZfWqDsKi7PuSCWfrIt0/4d90a5bf968e7aed08e69bbfaf56f652/6ff4ba36-7c6f-43b0-823d-0ef2a7fcaa08_desktop?auto=format&fp-x=0.37&fp-y=0.46",
+						"width": 1000,
+						"height": 625,
+						"focusX": 37,
+						"focusY": 46
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3r6wTnzxNyPWKAuG2vmlM1/ee6df03e4719f3e26e99a4ca0e0a37c9/b3c20f54-6c7e-40d6-adfd-bc0a1a107e97_desktop_retina?auto=format&fp-x=0.37&fp-y=0.46",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 37,
+						"focusY": 46
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/2FgZfWqDsKi7PuSCWfrIt0/4d90a5bf968e7aed08e69bbfaf56f652/6ff4ba36-7c6f-43b0-823d-0ef2a7fcaa08_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/3r6wTnzxNyPWKAuG2vmlM1/ee6df03e4719f3e26e99a4ca0e0a37c9/b3c20f54-6c7e-40d6-adfd-bc0a1a107e97_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 37,
+				"focus_y": 46,
+				"alternative_text": "A photo of a hot air balloon floating over a landscape dotted by starry looking lights."
+			},
+			{
+				"id": "cfa380aa-ab7a-49a0-ac84-74aa4f4877ae",
+				"position": null,
+				"caption": "Shy",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5izXeWTdI7jCcr5iUf3JHT/956f1b7a8c4b11a417332f6ffd2417cc/79d6f4b7-a32f-4103-9ea0-fdee7f02b52d_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7KXF7y5RijjhZrOk7J8ggP/2af185214e56cef8fc80a1c3f34af809/a905e31e-2249-4ac9-bbe7-caef8acbd4c2_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5izXeWTdI7jCcr5iUf3JHT/956f1b7a8c4b11a417332f6ffd2417cc/79d6f4b7-a32f-4103-9ea0-fdee7f02b52d_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/7KXF7y5RijjhZrOk7J8ggP/2af185214e56cef8fc80a1c3f34af809/a905e31e-2249-4ac9-bbe7-caef8acbd4c2_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a man smiling, looking down."
+			},
+			{
+				"id": "90ef9f97-75e6-40a1-ba71-4b8d41c07958",
+				"position": null,
+				"caption": "My Turn",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3P011JqonCWW8P9LBbqnQ9/622582f1443c5631c7691dd249d322a9/59af9615-d277-42e2-b59e-153824f94ea5_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2R9lWA2l9MzrVo7pq4sQ6D/6c3263f62e7cd81fe8e8abf9c3f90949/e028520a-58c1-4d5f-b9d1-94d386f530ba_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3P011JqonCWW8P9LBbqnQ9/622582f1443c5631c7691dd249d322a9/59af9615-d277-42e2-b59e-153824f94ea5_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/2R9lWA2l9MzrVo7pq4sQ6D/6c3263f62e7cd81fe8e8abf9c3f90949/e028520a-58c1-4d5f-b9d1-94d386f530ba_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a young man waiting in line, looking ahead of people in front of him to see when it will be his turn."
+			},
+			{
+				"id": "4b618694-3a58-4e39-bf60-ead3a3daf7c4",
+				"position": null,
+				"caption": "Give Me A Break",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5xpFLy6qTrbuHd28qvX4SX/9d7592a3ea82ca6f1d1f97ae2301aa83/61ac6d2d-3570-4645-875f-cb666def7e8f_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/57rwJTDd8TLxFptrFBE8o4/f306f9839a4261c6fb16e5564663c80d/0a6514c8-d4f0-40b0-8f94-4710321944f4_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5xpFLy6qTrbuHd28qvX4SX/9d7592a3ea82ca6f1d1f97ae2301aa83/61ac6d2d-3570-4645-875f-cb666def7e8f_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/57rwJTDd8TLxFptrFBE8o4/f306f9839a4261c6fb16e5564663c80d/0a6514c8-d4f0-40b0-8f94-4710321944f4_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a businesswoman sitting in front of a stack of papers piled on a desk in front of her, with her head in her hand."
+			},
+			{
+				"id": "0797c92a-e9f3-4ecd-b879-e6766f39f77b",
+				"position": null,
+				"caption": "Just for Kicks",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4jYdUNIUisOLwrDDwO5EiU/c120f697f0748f45d0a44905afc53f86/6e8b298e-3c78-4b61-86f6-f722e39569ce_desktop?auto=format&fp-x=0.66&fp-y=0.48",
+						"width": 1000,
+						"height": 625,
+						"focusX": 66,
+						"focusY": 48
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7CAGzKIlOYAMgf7xmvxy7Y/97aaefed7512da3c3bda52fb4983b9a5/8a65ea62-30f6-490a-8b59-81b63c220223_desktop_retina?auto=format&fp-x=0.66&fp-y=0.48",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 66,
+						"focusY": 48
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/4jYdUNIUisOLwrDDwO5EiU/c120f697f0748f45d0a44905afc53f86/6e8b298e-3c78-4b61-86f6-f722e39569ce_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/7CAGzKIlOYAMgf7xmvxy7Y/97aaefed7512da3c3bda52fb4983b9a5/8a65ea62-30f6-490a-8b59-81b63c220223_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 66,
+				"focus_y": 48,
+				"alternative_text": "A photo of a happy older couple riding their bikes on the beach."
+			},
+			{
+				"id": "95aa8596-7842-404f-8f4d-44415be23b7b",
+				"position": null,
+				"caption": "Look Out for Myself",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/7ha8efPKQrngsbqe5UT5Bo/6bc6f375310d6e7e3285d4306352e4d2/643a0085-0e46-4dd1-9587-22900f493ac2_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/2S8DlUBbBI7sn2bfJivMjB/eace614a79a8adc17a624e56e871fb17/04bbd780-ebfa-400d-a9e7-fea09cbad257_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/7ha8efPKQrngsbqe5UT5Bo/6bc6f375310d6e7e3285d4306352e4d2/643a0085-0e46-4dd1-9587-22900f493ac2_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/2S8DlUBbBI7sn2bfJivMjB/eace614a79a8adc17a624e56e871fb17/04bbd780-ebfa-400d-a9e7-fea09cbad257_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of an older man trying to pour cereal from an empty container into his bowl as a boy eats from a full bowl of cereal and milk sitting next to him."
+			},
+			{
+				"id": "2d95d934-3d48-48e9-ad4c-acf3b0ca50e3",
+				"position": null,
+				"caption": "Unfazed",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4eM0luauJwk6rtTGUU3h8C/d21ccec24f497ad0fc599109cf4a4c61/45e89557-1e14-4f12-9840-dea2b818ca79_desktop?auto=format&fp-x=0.40&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 40,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/40RB78V2z1yJiwTLERSqQq/06e4a52e6ed2d5496fdcea58b82d395c/8d98e030-e18e-423f-889f-56fbda1dd96d_desktop_retina?auto=format&fp-x=0.40&fp-y=0.50",
+						"width": 2799,
+						"height": 1750,
+						"focusX": 40,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/4eM0luauJwk6rtTGUU3h8C/d21ccec24f497ad0fc599109cf4a4c61/45e89557-1e14-4f12-9840-dea2b818ca79_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/40RB78V2z1yJiwTLERSqQq/06e4a52e6ed2d5496fdcea58b82d395c/8d98e030-e18e-423f-889f-56fbda1dd96d_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 40,
+				"focus_y": 50,
+				"alternative_text": "A photo of a car stuck in a traffic jam, with the passenger door open, and someone’s legs sticking out and resting on the open door."
+			},
+			{
+				"id": "34036fef-f935-4198-8b37-842975a9a59e",
+				"position": null,
+				"caption": "Thick-Skinned",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/olRklB1UXNrYYlCpdeoW2/5583e8bb35dfdd2217a5c3d0e628dcf4/00a81520-80d6-40d6-90f9-5af7505159b5_desktop?auto=format&fp-x=0.47&fp-y=0.48",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 47,
+						"focusY": 48
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/4x2ZL4Py8gUYNJVvx6JQRb/16d7693d6fafe7fe5f577323a77ca6bc/e76e2366-3df4-4729-a0d3-80f8fdaf6e10_desktop_retina?auto=format&fp-x=0.47&fp-y=0.48",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 47,
+						"focusY": 48
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/olRklB1UXNrYYlCpdeoW2/5583e8bb35dfdd2217a5c3d0e628dcf4/00a81520-80d6-40d6-90f9-5af7505159b5_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/4x2ZL4Py8gUYNJVvx6JQRb/16d7693d6fafe7fe5f577323a77ca6bc/e76e2366-3df4-4729-a0d3-80f8fdaf6e10_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 47,
+				"focus_y": 48,
+				"alternative_text": "A photo of a woman sitting and talking with a man. She is holding his arm and looking at him intently, while he is looking away from her, expressionless."
+			},
+			{
+				"id": "b520e7dd-ba82-4065-906d-430035f6bbc8",
+				"position": null,
+				"caption": "Makes Friends Everywhere",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/3zqROKfibCySHlqlGambiF/571864714a74057dbe68e8ef3308167c/c789df83-6b99-42f2-beca-782bf8e62c4a_desktop?auto=format&fp-x=0.38&fp-y=0.51",
+						"width": 1000,
+						"height": 625,
+						"focusX": 38,
+						"focusY": 51
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1ItdATtUwJcDVllN7IrGff/e9a87c5369e231faec04b859480f535b/9104e24c-2999-49b7-bb58-c426db1186c8_desktop_retina?auto=format&fp-x=0.38&fp-y=0.51",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 38,
+						"focusY": 51
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/3zqROKfibCySHlqlGambiF/571864714a74057dbe68e8ef3308167c/c789df83-6b99-42f2-beca-782bf8e62c4a_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1ItdATtUwJcDVllN7IrGff/e9a87c5369e231faec04b859480f535b/9104e24c-2999-49b7-bb58-c426db1186c8_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 38,
+				"focus_y": 51,
+				"alternative_text": "A photo of a coffee shop barista who chats with his customer as he prepares her order."
+			},
+			{
+				"id": "fbd27c93-aaac-4757-886c-fa3a434c1dfe",
+				"position": null,
+				"caption": "Short Cuts",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1Ps6C4X8O7LK4phA3JCEcv/8c9ad76f10c140ecac3c63ed99487373/4c861f4a-b253-4a56-a9e9-519eafd5023e_desktop?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 1000,
+						"height": 625,
+						"focusX": 50,
+						"focusY": 50
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/23lEzfqzA5s6e83H43APcI/5c86244a3c9d07d91398df9ed0ec73c8/2da5dd35-14e1-4f10-9670-4d16c4809e76_desktop_retina?auto=format&fp-x=0.50&fp-y=0.50",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 50,
+						"focusY": 50
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/1Ps6C4X8O7LK4phA3JCEcv/8c9ad76f10c140ecac3c63ed99487373/4c861f4a-b253-4a56-a9e9-519eafd5023e_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/23lEzfqzA5s6e83H43APcI/5c86244a3c9d07d91398df9ed0ec73c8/2da5dd35-14e1-4f10-9670-4d16c4809e76_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 50,
+				"focus_y": 50,
+				"alternative_text": "A photo of a heated TV dinner next to silverware, a glass and a TV remote control."
+			},
+			{
+				"id": "b52211da-7e97-4124-8720-353ab2d7a2d6",
+				"position": null,
+				"caption": "Prove My Point",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/20rcQV8AbHNcsRLzeiG4aN/63a76533ef0a42e9ac7be2d731d6bf93/99a28741-a15e-44e8-a40c-38d44db2f4fd_desktop?auto=format&fp-x=0.43&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 43,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/8jYfZEVf34PnADTsYMIjH/9e114efcb71ead866a191b6a7c3f682a/db2402ae-c0fe-4a98-b543-cd968114c4dc_desktop_retina?auto=format&fp-x=0.43&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 43,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/20rcQV8AbHNcsRLzeiG4aN/63a76533ef0a42e9ac7be2d731d6bf93/99a28741-a15e-44e8-a40c-38d44db2f4fd_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/8jYfZEVf34PnADTsYMIjH/9e114efcb71ead866a191b6a7c3f682a/db2402ae-c0fe-4a98-b543-cd968114c4dc_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 43,
+				"focus_y": 49,
+				"alternative_text": "A photo of a businessman using his hands enthusiastically to share his ideas with his colleagues."
+			},
+			{
+				"id": "5b25e889-612a-4590-aabc-8e9f64d6af04",
+				"position": null,
+				"caption": "Outgoing",
+				"images": [
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/5Pjv4ZYSIw4cZQvtbNk5vc/2702141c0633aa680b351a38135a93f1/4bea1002-aef4-4610-8476-8a3d410fe857_desktop?auto=format&fp-x=0.59&fp-y=0.49",
+						"width": 1000,
+						"height": 625,
+						"focusX": 59,
+						"focusY": 49
+					},
+					{
+						"url": "https://traitify-c.imgix.net/4pzvszxmf15y/1EreUzuqoH3oVaoMm4Umih/3c0935f1f01a6d282be201baaca6b631/9f0a44cb-3ec7-409b-ab91-631719938721_desktop_retina?auto=format&fp-x=0.59&fp-y=0.49",
+						"width": 2272,
+						"height": 1420,
+						"focusX": 59,
+						"focusY": 49
+					}
+				],
+				"image_desktop": "https://images.ctfassets.net/4pzvszxmf15y/5Pjv4ZYSIw4cZQvtbNk5vc/2702141c0633aa680b351a38135a93f1/4bea1002-aef4-4610-8476-8a3d410fe857_desktop",
+				"image_desktop_retina": "https://images.ctfassets.net/4pzvszxmf15y/1EreUzuqoH3oVaoMm4Umih/3c0935f1f01a6d282be201baaca6b631/9f0a44cb-3ec7-409b-ab91-631719938721_desktop_retina",
+				"response": null,
+				"likert_response": null,
+				"time_taken": null,
+				"completed_at": null,
+				"created_at": 1736947461684,
+				"focus_x": 59,
+				"focus_y": 49,
+				"alternative_text": "A photo of an older woman laughing and hula hooping in a backyard with a woman and a girl also hula hooping in the background."
+			}
+		],
+		"profile_ids": [
+			"25925432-1f45-4d3d-8824-426bfbfcae94"
+		]
+	},
+	{
+		"id": "d2adf711-7c2b-4313-b33c-24c7b93ee949",
+		"deck_id": "big-five",
+		"package_id": "",
+		"status": "complete",
+		"scoring_scale": "STEN",
+		"slide_type": "IMAGE",
+		"assessment_type": "DIMENSION_BASED",
+		"completed_at": 1737075976575,
+		"started_at": 1737073534566,
+		"created_at": 1737073526368,
+		"locale_key": "en-US",
+		"personality_types": [
+			{
+				"personality_type": {
+					"id": "f702b455-2c0e-433c-a274-b01b68ae29ba",
+					"name": "Extraversion",
+					"description": "Engaging with people (Extraversion) concerns someone’s interest, investment and comfort in developing relationships with others - customers, clients, work groups or colleagues.",
+					"badge": {
+						"image_small": "https://images.ctfassets.net/4pzvszxmf15y/3jTWPNKpc9ARoEZwAj7hBf/a86507f72fe150420f808d19db633ea2/extraversion_sml.png",
+						"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6qaPeOKkzLW7Zxc0jwjlWD/de082488d4d3dcf8f00931fdc22b24a7/extraversion.png",
+						"image_large": "https://images.ctfassets.net/4pzvszxmf15y/70Xq2kTD5hAGFKKyoyJrQw/e6e6b22b6e36e5d52224dc1d100df5c1/extraversion.png",
+						"font_color": "",
+						"color_1": "000000",
+						"color_2": "",
+						"color_3": ""
+					},
+					"keywords": null,
+					"details": [
+						{
+							"title": "Position",
+							"body": "3"
+						},
+						{
+							"title": "type",
+							"body": "Extraversion"
+						},
+						{
+							"title": "first_person_description",
+							"body": "You seem to be the sort of person who seeks out and enjoys being with other people. Typically, you find it stimulating to have lively discussions with others, and may even enjoy getting a reaction by saying or doing entertaining things. When it comes to the energy you put into life, you're probably at the front of the line when there is an exciting challenge up for grabs. As such you are a 'do-think-do' kind of person who has plenty of enthusiasm and stamina, and a real thirst for getting out there and making your mark. "
+						},
+						{
+							"title": "third_person_description",
+							"body": "The candidate seems to be the sort of person who seeks out and enjoys being with other people. Typically, they find it stimulating to have lively discussions with others, and may even enjoy getting a reaction by saying or doing entertaining things. When it comes to the energy they put into life, they're probably at the front of the line when there is an exciting challenge up for grabs. As such they are a 'do-think-do' kind of person who has plenty of enthusiasm and stamina, and a real thirst for getting out there and making their mark."
+						},
+						{
+							"title": "first_person_short_description",
+							"body": "You seem to be the sort of person who seeks out and enjoys being with other people. Typically, you find it stimulating to have lively discussions with others, and may even enjoy getting a reaction by saying or doing entertaining things. As such you are a 'do-think-do' kind of person who has plenty of enthusiasm and stamina, and a real thirst for getting out there and making your mark."
+						},
+						{
+							"title": "third_person_short_description",
+							"body": "The candidate seems to be the sort of person who seeks out and enjoys being with other people. Typically, they find it stimulating to have lively discussions with others, and may even enjoy getting a reaction by saying or doing entertaining things. As such they are a 'do-think-do' kind of person who has plenty of enthusiasm and stamina, and a real thirst for getting out there and making their mark."
+						},
+						{
+							"title": "Benefits",
+							"body": "Approachable"
+						},
+						{
+							"title": "Benefits",
+							"body": "Energetic"
+						},
+						{
+							"title": "Benefits",
+							"body": "Fast to act"
+						},
+						{
+							"title": "Benefits",
+							"body": "Fun loving"
+						},
+						{
+							"title": "Benefits",
+							"body": "Intense"
+						},
+						{
+							"title": "Benefits",
+							"body": "People oriented"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May be easily bored"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May find it hard to work alone"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May get too close too quickly"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May misjudge what is appropriate"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May not channel energy efficiently"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May not reflect before acting"
+						}
+					],
+					"environments": [],
+					"famous_people": [],
+					"personality_traits": [
+						{
+							"id": "f061ac1c-61d9-4b73-a0bb-cc504eec4c4b",
+							"name": "High-Energy",
+							"definition": "Possessing high stamina and motivation.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "292b69c6-512b-4b49-a0f0-476c7a2fcf9f",
+							"name": "Interactive",
+							"definition": "Prefers the company of other people.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "2f9b51c8-893f-4c2c-8b67-6c3eed10b221",
+							"name": "Enthusiastic",
+							"definition": "Excitedly experiencing a lively interest in something.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "4b596f9b-b22b-4e25-b908-9fb041ad5d5b",
+							"name": "Attention-Seeking",
+							"definition": "Actively provokes others’ notice or awareness.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "72cd80f0-edbe-4187-b3a3-b1d84c43f560",
+							"name": "Friendly",
+							"definition": "Warm and easily approachable and engaging",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "cd7866e9-0c09-47d2-8261-c6713eae41c8",
+							"name": "Thrill-Seeking",
+							"definition": "craving excitement",
+							"description": "",
+							"personality_type": null
+						}
+					],
+					"level": "High",
+					"level_id": "abf0884d-04e4-4079-82a9-64e4c9103ddb",
+					"career_style": [],
+					"explore": [],
+					"achieve": [],
+					"act": [],
+					"appreciate": []
+				},
+				"score": 9.0,
+				"standard_score": 91.507935,
+				"rank": 1
+			},
+			{
+				"personality_type": {
+					"id": "2835d442-98be-49ff-9cf1-0e0ea577fa77",
+					"name": "Agreeableness",
+					"description": "Influencing people (Agreeableness) concerns the way someone balances their emotional understanding of other people, and their respect for differing viewpoints, with the style in which they try to influence or negotiate with them.",
+					"badge": {
+						"image_small": "https://images.ctfassets.net/4pzvszxmf15y/1yEkNHw45D6dLB7vyhdpql/ceccc8106c6ba4dd05bbdac6b3f32ffb/agreeableness_sml.png",
+						"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/1iriPiynTaEEDAV3unjDH5/65a4d2d46aef44e0e36fdab4cc465baa/agreeableness.png",
+						"image_large": "https://images.ctfassets.net/4pzvszxmf15y/JmlxPsUWdrnRVrzZb0Eev/3c6db19aba2a4ff77a7618b2241b7ae8/agreeableness.png",
+						"font_color": "",
+						"color_1": "000000",
+						"color_2": "",
+						"color_3": ""
+					},
+					"keywords": null,
+					"details": [
+						{
+							"title": "Position",
+							"body": "4"
+						},
+						{
+							"title": "type",
+							"body": "Agreeableness"
+						},
+						{
+							"title": "first_person_description",
+							"body": "You describe yourself as someone who has a mature and streetwise view of other people and their views. Your first instinct is likely to be to trust other people, but you do know that others can let you down. Thus, while you are a loyal friend and colleague, you do not take everything on trust. Your results indicate that you tend to have an attitude towards others that is built on openness and a view that people are imperfect and sometimes need help. Therefore, when you deal with other people, you will search for a mutually acceptable outcome, because you know that you need to work together. In this way, you are probably able to be direct, but are also able to temper your approach with sensitivity for what will keep relationships healthy and intact."
+						},
+						{
+							"title": "third_person_description",
+							"body": "The candidate’s view is that they are someone who has a mature and streetwise view of other people and their views. Their first instinct is likely to be to trust other people, but they do know that others can let them down. Thus, while they are a loyal friend and colleague, they do not take everything on trust. Their results indicate that they tend to have an attitude towards others that is built on openness, and a view that people are imperfect and sometimes need help. Therefore, when they deal with other people, they will search for a mutually acceptable outcome, because they know ultimately that we all need to work together. In this way, they are probably able to be direct, but are also able to temper their approach with sensitivity for what will keep relationships healthy and intact."
+						},
+						{
+							"title": "first_person_short_description",
+							"body": "You describe yourself as someone who has a mature and streetwise view of other people and their views. Your first instinct is likely to be to trust other people, but you do know that others can let you down. Thus, you are probably able to be direct, but are also able to temper your approach with sensitivity for what will keep relationships healthy and intact."
+						},
+						{
+							"title": "third_person_short_description",
+							"body": "The candidate’s view is that they are someone who has a mature and streetwise view of other people and their views. Their first instinct is likely to be to trust other people, but they do know that others can let them down. Thus, they are probably able to be direct, but are also able to temper their approach with sensitivity for what will keep relationships healthy and intact."
+						},
+						{
+							"title": "Benefits",
+							"body": "Forgiving style"
+						},
+						{
+							"title": "Benefits",
+							"body": "Looks for win-win outcome"
+						},
+						{
+							"title": "Benefits",
+							"body": "Negotiates with sensitivity"
+						},
+						{
+							"title": "Benefits",
+							"body": "Realistic view of others"
+						},
+						{
+							"title": "Benefits",
+							"body": "Recognises imperfection "
+						},
+						{
+							"title": "Benefits",
+							"body": "Relational style"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May appear too open-minded (to others)"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May be viewed as a ‘pushover’ by others’"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May let sympathy get in the way"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May lose out to very assertive colleagues"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May not always be objective enough"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May not go for the optimal personal win"
+						}
+					],
+					"environments": [],
+					"famous_people": [],
+					"personality_traits": [
+						{
+							"id": "c38fec91-95ad-4297-9470-1ae4572e459f",
+							"name": "Forgiving",
+							"definition": "allowing room for error or weakness in another",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "c182c06e-32df-49e5-9293-1d8f5d7c17aa",
+							"name": "Steady",
+							"definition": "Dependable, even and consistent.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "f33f3420-8413-49be-b7df-a611f9ac006a",
+							"name": "Accommodating",
+							"definition": "Willing to do what someone else wants.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "cdeeacf8-6de4-4045-86ae-fdab4930701d",
+							"name": "Altruistic",
+							"definition": "Devoted to the welfare of others or the greater good.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "43de2941-a73e-4673-9b1a-048a9334962e",
+							"name": "Compassionate",
+							"definition": "Feeling deep sympathy and sorrow for another stricken by misfortune.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "a0d2ade9-c4fa-4972-860a-ca872ba4ee47",
+							"name": "Loyal",
+							"definition": "Devoted to relationships with important others.",
+							"description": "",
+							"personality_type": null
+						}
+					],
+					"level": "Medium",
+					"level_id": "0840f114-5f34-4991-ade0-86cfae8672f3",
+					"career_style": [],
+					"explore": [],
+					"achieve": [],
+					"act": [],
+					"appreciate": []
+				},
+				"score": 7.0,
+				"standard_score": 77.97619,
+				"rank": 2
+			},
+			{
+				"personality_type": {
+					"id": "462b8063-69f4-4b50-990b-8daee93e8616",
+					"name": "Openness",
+					"description": "Solving Problems (Openness) concerns how someone thinks about work problems, projects and challenges, how receptive they are to new or different information or approaches, and the way this influences their decision-making.",
+					"badge": {
+						"image_small": "https://images.ctfassets.net/4pzvszxmf15y/6zFDrU4OM6NfWOdt6OGd41/238018123cad16859c4d9171b156d30d/openness_sml.png",
+						"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6TcaGFUmkzAE4n5blutGnB/e6a2e8bfeca34ad132eb6f2c1a87b9a0/openness.png",
+						"image_large": "https://images.ctfassets.net/4pzvszxmf15y/4J2MjwdJYBcD2UOctg5geW/a7dfd8580a875b6b29c0ad704fa1e606/openness.png",
+						"font_color": "",
+						"color_1": "000000",
+						"color_2": "",
+						"color_3": ""
+					},
+					"keywords": null,
+					"details": [
+						{
+							"title": "Position",
+							"body": "1"
+						},
+						{
+							"title": "type",
+							"body": "Openness"
+						},
+						{
+							"title": "first_person_description",
+							"body": "You appear to take a balanced approach to solving problems. You are likely to be able to think of new and original ways of approaching situations, but not at the expense of ignoring well-established solutions, already known to work. This will often involve investigating problems by taking an open-ended view of what might work, and not being afraid to change things if necessary. Most likely, you will have an eye on whether something will be effective both now and in the future. The emphasis will probably be on juggling the facts and making changes, large or small, in order to make a decision that will stand the test of time."
+						},
+						{
+							"title": "third_person_description",
+							"body": "The candidate appears to take a balanced approach to solving problems. They are likely to be able to think of new and original ways of approaching situations, but not at the expense of ignoring well-established solutions, already known to work. This will often involve investigating problems by taking an open-ended view of what might work, and not being afraid to change things if necessary. Most likely, they will have an eye on whether something will be effective both now and in the future. The emphasis will probably be on juggling the facts and making changes, large or small, in order to make a decision that will stand the test of time."
+						},
+						{
+							"title": "first_person_short_description",
+							"body": "You appear to take a balanced approach to solving problems. thinking of new and original ways of approaching situations, but not at the expense of ignoring well-established solutions, already known to work. Most likely, you will have an eye on whether something will be effective both now and in the future, juggling the facts and making changes that will stand the test of time."
+						},
+						{
+							"title": "third_person_short_description",
+							"body": "The candidate appears to take a balanced approach to solving problems. They are likely to be able to think of new and original ways of approaching situations, but not at the expense of ignoring well-established solutions, already known to work. The emphasis will probably be on juggling the facts and making changes, large or small, in order to make a decision that will stand the test of time."
+						},
+						{
+							"title": "Benefits",
+							"body": "Brings experience to strategy"
+						},
+						{
+							"title": "Benefits",
+							"body": "Flexible problem solver"
+						},
+						{
+							"title": "Benefits",
+							"body": "Pragmatic thinker"
+						},
+						{
+							"title": "Benefits",
+							"body": "Sees detail and bigger picture"
+						},
+						{
+							"title": "Benefits",
+							"body": "Tends to be cautious"
+						},
+						{
+							"title": "Benefits",
+							"body": "Works to maintain the system"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "Can err on the side of caution"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May be too quick to change style"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May confuse knowledge with foresight"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May find it hard to focus"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May over rely on middle way"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May work too slowly"
+						}
+					],
+					"environments": [],
+					"famous_people": [],
+					"personality_traits": [
+						{
+							"id": "1a218b0a-f010-439c-b136-7716cfa519f3",
+							"name": "Whimsical",
+							"definition": "Values the playful and capricious aspects of an activity\n",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "6930157c-eb56-4757-a2e2-3a54fbfc6f6d",
+							"name": "Open-Minded",
+							"definition": "having a mind receptive to new ideas or ideas contrary to one’s own beliefs",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "1dab21ff-affb-4bfb-9d65-8988506f7fd2",
+							"name": "Visionary",
+							"definition": "Can imagine how actions and ideas pursued in the present will affect the future.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "7dc52c28-ad0a-4d6a-a54f-8b8270fa2441",
+							"name": "Playful",
+							"definition": "fun-loving",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "749ba657-fc11-451b-abae-524ca036199a",
+							"name": "Creative",
+							"definition": "original, artistic, and imaginative",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "f099bd50-4338-4a7a-ad4d-50304bda7568",
+							"name": "Imaginative",
+							"definition": "Able to think symbolically and play with ideas.",
+							"description": "",
+							"personality_type": null
+						}
+					],
+					"level": "Medium",
+					"level_id": "396db66e-cdd7-469b-8927-2853f036226c",
+					"career_style": [
+						""
+					],
+					"explore": [
+						""
+					],
+					"achieve": [
+						""
+					],
+					"act": [
+						""
+					],
+					"appreciate": [
+						""
+					]
+				},
+				"score": 7.0,
+				"standard_score": 67.46032,
+				"rank": 3
+			},
+			{
+				"personality_type": {
+					"id": "f087aa70-14ea-4293-9327-cedf0e4ce1fa",
+					"name": "Emotional Stability",
+					"description": "Managing pressure (Emotional Stability) concerns the manner in which someone deals with pressure and the way in which they control their emotions and underlying tension, in order to stay on task and cope with everyday challenges.",
+					"badge": {
+						"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2ec4OnkZIU65BasPg2j5YY/b2af2e2f98f6b188f154153295eea252/emotional_stability_sml.png",
+						"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/7EGVF0S7mO5VXskyBHx4wP/2ecf9d217623e0b6d41732391466aba0/emotional_stability.png",
+						"image_large": "https://images.ctfassets.net/4pzvszxmf15y/6WaJGgKoIABt6B8jCzc4qo/83de5a1b4e7cc0503dca2c6357969da4/95f6ff51-4de1-4146-9980-eea84d276f7a_large",
+						"font_color": "",
+						"color_1": "000000",
+						"color_2": "",
+						"color_3": ""
+					},
+					"keywords": null,
+					"details": [
+						{
+							"title": "Position",
+							"body": "5"
+						},
+						{
+							"title": "type",
+							"body": "Emotional Stability"
+						},
+						{
+							"title": "first_person_description",
+							"body": "You seem to react to pressure in a relaxed way, but you also know when to take things seriously. You seem to be able to let small irritations pass. Your results indicate that you are a generally calm person, who does not sleep on things, but is sometimes on his \"guard\" as well. You listen to others and take note of what they say, but you don't tend to let criticism interfere with what you're doing.\n\nWhen it comes to managing your feelings, you tend to react to situations in a measured way because you have a good understanding of your coping skills. Therefore, your friends and colleagues may well describe you as a mild-mannered and positive person. In general, you probably feel that you can handle most situations that life throws at you."
+						},
+						{
+							"title": "third_person_description",
+							"body": "The candidate appears to respond to pressure in a relaxed way but also knows when to take things seriously. They seem to be able to let minor irritations go. Their results indicate that they are someone who is generally calm, and not the sort to dwell on things, but who is also 'on guard' at times. They listen to other people and take note of what they say, but are not prone to letting criticism interfere with what they do. When it comes to managing their feelings, they tend to respond to situations in a measured manner, as they have a good understanding of their ability to cope. Indeed their friends and colleagues might well describe them as even-tempered and positive. By and large they probably feel well able to deal with most of what life hands them."
+						},
+						{
+							"title": "first_person_short_description",
+							"body": "You look as if you respond to pressure in a relaxed way but also know when to take things seriously. You seem to be able to let minor irritations go. Your results indicate that you are someone who is generally calm, and not the sort to dwell on things, but who is also 'on guard' at times. By and large you probably feel well able to deal with most of what life hands you."
+						},
+						{
+							"title": "third_person_short_description",
+							"body": "The candidate appears to respond to pressure in a relaxed way but also knows when to take things seriously. They seem to be able to let minor irritations go. Their results indicate that they are someone who is generally calm, and not the sort to dwell on things, but who is also 'on guard' at times. By and large they probably feel well able to deal with most of what life hands them."
+						},
+						{
+							"title": "Benefits",
+							"body": "Aware of others’ emotional states"
+						},
+						{
+							"title": "Benefits",
+							"body": "Copes with most things"
+						},
+						{
+							"title": "Benefits",
+							"body": "Even tempered"
+						},
+						{
+							"title": "Benefits",
+							"body": "Low level of tension"
+						},
+						{
+							"title": "Benefits",
+							"body": "Manages feelings"
+						},
+						{
+							"title": "Benefits",
+							"body": "Takes onboard criticism"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May appear too unresponsive"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May be distracted by others’ emotions"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May be slow to ask for help"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May lack energy to act quickly"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May not show real feelings"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May not take criticism seriously enough"
+						}
+					],
+					"environments": [],
+					"famous_people": [],
+					"personality_traits": [
+						{
+							"id": "e829d069-cef7-4167-abe5-6060226a2a83",
+							"name": "Positive",
+							"definition": "Thinking that a good result will happen.",
+							"description": "Not easily discouraged",
+							"personality_type": null
+						},
+						{
+							"id": "b5111d72-c892-4c97-a47b-676c41196974",
+							"name": "Robust",
+							"definition": "strong and healthy",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "4f66d64c-6e91-43a9-a424-ddae2a120776",
+							"name": "Easy-Going",
+							"definition": "can “go with the flow” and adjust preferences when needed ",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "339821ec-4a30-4e90-aa76-0b4c3c8d97a3",
+							"name": "Deliberate",
+							"definition": "careful and slow in deciding and acting",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "467622a3-eaad-45ff-b991-50356bc8d88f",
+							"name": "Calm",
+							"definition": "An internal sense of peacefulness.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "3cef923b-ac82-4be4-94da-4693b7353a51",
+							"name": "Regulated",
+							"definition": "is able to modulate and cope with one’s changing internal emotional state, to continue functioning competently",
+							"description": "",
+							"personality_type": null
+						}
+					],
+					"level": "Medium",
+					"level_id": "092acbdd-b237-46aa-9186-4b3882f445b7",
+					"career_style": [],
+					"explore": [],
+					"achieve": [],
+					"act": [],
+					"appreciate": []
+				},
+				"score": 7.0,
+				"standard_score": 68.333336,
+				"rank": 4
+			},
+			{
+				"personality_type": {
+					"id": "05596127-4fdd-4d22-8ae7-530d42d225eb",
+					"name": "Conscientiousness",
+					"description": "Delivering Results (Conscientiousness) concerns work style and how someone directs their efforts and attention toward completing tasks. The level of discipline, dedication, perseverance, organization and reliability are hallmark factors of this dimension. ",
+					"badge": {
+						"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2eHxQIpiBSJR6Vd8amELvR/7fca5969620615dec78c2d2adffaf71f/conscientiousness_sml.png",
+						"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/2i86CgVp6PeF5Yib8fAbK8/17f8aa2d8eca3a90a96858025f61bcee/conscientiousness.png",
+						"image_large": "https://images.ctfassets.net/4pzvszxmf15y/7qIeI3o666O8U5AZ6Pro3T/bff8a50c5d3a69f4ed1690b1d340af7a/conscientiousness.png",
+						"font_color": "",
+						"color_1": "000000",
+						"color_2": "",
+						"color_3": ""
+					},
+					"keywords": null,
+					"details": [
+						{
+							"title": "Position",
+							"body": "2"
+						},
+						{
+							"title": "type",
+							"body": "Conscientiousness"
+						},
+						{
+							"title": "first_person_description",
+							"body": "You seem to be the sort of person who prefers to weigh the extent to which tasks need to be structured, organized and planned. You are likely to be aware of the fact that there are things that need to be approached in a highly methodical manner, and equally, that there are occasions when action is more important than following a pre-planned approach.  Based on your results, you seem to be the type of person who can measure out the energy you invest in tasks, ramping up more when you have to do things you would normally avoid. This view of how work should be done is reinforced by the fact that you are likely to commit to tasks when you feel fully invested in the outcome, and it's this sense of ownership that gives you the confidence to do your best work."
+						},
+						{
+							"title": "third_person_description",
+							"body": "The candidate seems to be the sort of person who prefers to weigh the extent to which tasks need to be structured, organized and planned. They are likely to be aware of the fact that there are things that need to be approached in a highly methodical manner, and equally, that there are occasions when action is more important than following a pre-planned approach.  Based on their results, they seem to be the sort of person who can measure out the energy they invest in tasks, ramping up more when they have to do things they would normally avoid. This view of how work should be done is reinforced by the fact that they are likely to commit to tasks when they feel fully invested in the outcome, and it's this sense of ownership that gives them the confidence to do their best work."
+						},
+						{
+							"title": "first_person_short_description",
+							"body": "You seem to be the sort of person who prefers to weigh the extent to which tasks need to be structured, organized and planned. You are likely to be aware of the fact that at times things need to be approached methodically; at other times, action is more important than plans. You are likely to commit to tasks when you feel fully invested in the outcome, and it's this sense of ownership that gives you the confidence to do your best work."
+						},
+						{
+							"title": "third_person_short_description",
+							"body": "The candidate seems to be the sort of person who prefers to weigh the extent to which tasks need to be structured, organized and planned. They are likely to be aware of the fact that there are things that need to be approached methodically; at other times, action is more important than plans.  They are likely to commit to tasks when they feel fully invested in the outcome, and it's this sense of ownership that gives them the confidence to do their best work."
+						},
+						{
+							"title": "Benefits",
+							"body": "Balanced work style"
+						},
+						{
+							"title": "Benefits",
+							"body": "Committed to shared outcome"
+						},
+						{
+							"title": "Benefits",
+							"body": "Continually prioritises goals"
+						},
+						{
+							"title": "Benefits",
+							"body": "Flexible work style"
+						},
+						{
+							"title": "Benefits",
+							"body": "Focuses on process and task"
+						},
+						{
+							"title": "Benefits",
+							"body": "Wants to achieve"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May be slow to select suitable style"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May confound achievement with delivery"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May not commit without ownership"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May not leave space for change"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May not prioritize end goal consistently"
+						},
+						{
+							"title": "Pitfalls",
+							"body": "May tend to leave things too open"
+						}
+					],
+					"environments": [],
+					"famous_people": [],
+					"personality_traits": [
+						{
+							"id": "89c61416-2772-4e7d-abbb-0a5f55db188d",
+							"name": "Committed",
+							"definition": "To pledge oneself to a position on an issue or to another person.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "b4eda8a9-34a9-460c-b0cc-d4a463b03422",
+							"name": "Can Delay Gratification",
+							"definition": "Can manage and delay one’s appetites and desires. ",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "37eba886-fdec-4b1c-904d-b9fd4b5e4980",
+							"name": "Orderliness",
+							"definition": "Valuing organization and logic.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "62e8b2b1-7822-469a-8db2-7cd8c63bd11a",
+							"name": "Ambitious",
+							"definition": "Having a strong desire to achieve.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "07b204c4-b659-4cf3-aee5-2168ec103752",
+							"name": "Confident",
+							"definition": "Having a secure sense of one’s own worth.",
+							"description": "",
+							"personality_type": null
+						},
+						{
+							"id": "b8c12411-b172-4c9f-8bcf-8ed0d4e29f54",
+							"name": "Self-Discipline",
+							"definition": "The ability to make yourself do things that you think should be done.",
+							"description": "",
+							"personality_type": null
+						}
+					],
+					"level": "Medium",
+					"level_id": "5b1248fc-dfc7-4a52-953e-4ee56da61bbc",
+					"career_style": [],
+					"explore": [],
+					"achieve": [],
+					"act": [],
+					"appreciate": []
+				},
+				"score": 5.0,
+				"standard_score": 60.99868,
+				"rank": 5
+			}
+		],
+		"personality_traits": [
+			{
+				"personality_trait": {
+					"id": "292b69c6-512b-4b49-a0f0-476c7a2fcf9f",
+					"name": "Interactive",
+					"definition": "Prefers the company of other people.",
+					"description": "",
+					"personality_type": {
+						"id": "f702b455-2c0e-433c-a274-b01b68ae29ba",
+						"name": "Extraversion",
+						"description": "Engaging with people (Extraversion) concerns someone’s interest, investment and comfort in developing relationships with others - customers, clients, work groups or colleagues.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/3jTWPNKpc9ARoEZwAj7hBf/a86507f72fe150420f808d19db633ea2/extraversion_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6qaPeOKkzLW7Zxc0jwjlWD/de082488d4d3dcf8f00931fdc22b24a7/extraversion.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/70Xq2kTD5hAGFKKyoyJrQw/e6e6b22b6e36e5d52224dc1d100df5c1/extraversion.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "3"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 100.0,
+				"rank": 1,
+				"raw_score": 1400.0,
+				"max_score": 700.0
+			},
+			{
+				"personality_trait": {
+					"id": "4b596f9b-b22b-4e25-b908-9fb041ad5d5b",
+					"name": "Attention-Seeking",
+					"definition": "Actively provokes others’ notice or awareness.",
+					"description": "",
+					"personality_type": {
+						"id": "f702b455-2c0e-433c-a274-b01b68ae29ba",
+						"name": "Extraversion",
+						"description": "Engaging with people (Extraversion) concerns someone’s interest, investment and comfort in developing relationships with others - customers, clients, work groups or colleagues.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/3jTWPNKpc9ARoEZwAj7hBf/a86507f72fe150420f808d19db633ea2/extraversion_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6qaPeOKkzLW7Zxc0jwjlWD/de082488d4d3dcf8f00931fdc22b24a7/extraversion.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/70Xq2kTD5hAGFKKyoyJrQw/e6e6b22b6e36e5d52224dc1d100df5c1/extraversion.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "3"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 100.0,
+				"rank": 2,
+				"raw_score": 1200.0,
+				"max_score": 600.0
+			},
+			{
+				"personality_trait": {
+					"id": "72cd80f0-edbe-4187-b3a3-b1d84c43f560",
+					"name": "Friendly",
+					"definition": "Warm and easily approachable and engaging",
+					"description": "",
+					"personality_type": {
+						"id": "f702b455-2c0e-433c-a274-b01b68ae29ba",
+						"name": "Extraversion",
+						"description": "Engaging with people (Extraversion) concerns someone’s interest, investment and comfort in developing relationships with others - customers, clients, work groups or colleagues.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/3jTWPNKpc9ARoEZwAj7hBf/a86507f72fe150420f808d19db633ea2/extraversion_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6qaPeOKkzLW7Zxc0jwjlWD/de082488d4d3dcf8f00931fdc22b24a7/extraversion.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/70Xq2kTD5hAGFKKyoyJrQw/e6e6b22b6e36e5d52224dc1d100df5c1/extraversion.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "3"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 100.0,
+				"rank": 3,
+				"raw_score": 1400.0,
+				"max_score": 700.0
+			},
+			{
+				"personality_trait": {
+					"id": "c182c06e-32df-49e5-9293-1d8f5d7c17aa",
+					"name": "Steady",
+					"definition": "Dependable, even and consistent.",
+					"description": "",
+					"personality_type": {
+						"id": "2835d442-98be-49ff-9cf1-0e0ea577fa77",
+						"name": "Agreeableness",
+						"description": "Influencing people (Agreeableness) concerns the way someone balances their emotional understanding of other people, and their respect for differing viewpoints, with the style in which they try to influence or negotiate with them.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/1yEkNHw45D6dLB7vyhdpql/ceccc8106c6ba4dd05bbdac6b3f32ffb/agreeableness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/1iriPiynTaEEDAV3unjDH5/65a4d2d46aef44e0e36fdab4cc465baa/agreeableness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/JmlxPsUWdrnRVrzZb0Eev/3c6db19aba2a4ff77a7618b2241b7ae8/agreeableness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "4"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 100.0,
+				"rank": 4,
+				"raw_score": 1400.0,
+				"max_score": 700.0
+			},
+			{
+				"personality_trait": {
+					"id": "07b204c4-b659-4cf3-aee5-2168ec103752",
+					"name": "Confident",
+					"definition": "Having a secure sense of one’s own worth.",
+					"description": "",
+					"personality_type": {
+						"id": "05596127-4fdd-4d22-8ae7-530d42d225eb",
+						"name": "Conscientiousness",
+						"description": "Delivering Results (Conscientiousness) concerns work style and how someone directs their efforts and attention toward completing tasks. The level of discipline, dedication, perseverance, organization and reliability are hallmark factors of this dimension. ",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2eHxQIpiBSJR6Vd8amELvR/7fca5969620615dec78c2d2adffaf71f/conscientiousness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/2i86CgVp6PeF5Yib8fAbK8/17f8aa2d8eca3a90a96858025f61bcee/conscientiousness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/7qIeI3o666O8U5AZ6Pro3T/bff8a50c5d3a69f4ed1690b1d340af7a/conscientiousness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "2"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 71.42857,
+				"rank": 5,
+				"raw_score": 1400.0,
+				"max_score": 500.0
+			},
+			{
+				"personality_trait": {
+					"id": "2f9b51c8-893f-4c2c-8b67-6c3eed10b221",
+					"name": "Enthusiastic",
+					"definition": "Excitedly experiencing a lively interest in something.",
+					"description": "",
+					"personality_type": {
+						"id": "f702b455-2c0e-433c-a274-b01b68ae29ba",
+						"name": "Extraversion",
+						"description": "Engaging with people (Extraversion) concerns someone’s interest, investment and comfort in developing relationships with others - customers, clients, work groups or colleagues.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/3jTWPNKpc9ARoEZwAj7hBf/a86507f72fe150420f808d19db633ea2/extraversion_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6qaPeOKkzLW7Zxc0jwjlWD/de082488d4d3dcf8f00931fdc22b24a7/extraversion.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/70Xq2kTD5hAGFKKyoyJrQw/e6e6b22b6e36e5d52224dc1d100df5c1/extraversion.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "3"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 71.42857,
+				"rank": 6,
+				"raw_score": 1400.0,
+				"max_score": 500.0
+			},
+			{
+				"personality_trait": {
+					"id": "f099bd50-4338-4a7a-ad4d-50304bda7568",
+					"name": "Imaginative",
+					"definition": "Able to think symbolically and play with ideas.",
+					"description": "",
+					"personality_type": {
+						"id": "462b8063-69f4-4b50-990b-8daee93e8616",
+						"name": "Openness",
+						"description": "Solving Problems (Openness) concerns how someone thinks about work problems, projects and challenges, how receptive they are to new or different information or approaches, and the way this influences their decision-making.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/6zFDrU4OM6NfWOdt6OGd41/238018123cad16859c4d9171b156d30d/openness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6TcaGFUmkzAE4n5blutGnB/e6a2e8bfeca34ad132eb6f2c1a87b9a0/openness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/4J2MjwdJYBcD2UOctg5geW/a7dfd8580a875b6b29c0ad704fa1e606/openness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "1"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [
+							""
+						],
+						"explore": [
+							""
+						],
+						"achieve": [
+							""
+						],
+						"act": [
+							""
+						],
+						"appreciate": [
+							""
+						]
+					}
+				},
+				"score": 71.42857,
+				"rank": 7,
+				"raw_score": 1400.0,
+				"max_score": 500.0
+			},
+			{
+				"personality_trait": {
+					"id": "3cef923b-ac82-4be4-94da-4693b7353a51",
+					"name": "Regulated",
+					"definition": "is able to modulate and cope with one’s changing internal emotional state, to continue functioning competently",
+					"description": "",
+					"personality_type": {
+						"id": "f087aa70-14ea-4293-9327-cedf0e4ce1fa",
+						"name": "Emotional Stability",
+						"description": "Managing pressure (Emotional Stability) concerns the manner in which someone deals with pressure and the way in which they control their emotions and underlying tension, in order to stay on task and cope with everyday challenges.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2ec4OnkZIU65BasPg2j5YY/b2af2e2f98f6b188f154153295eea252/emotional_stability_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/7EGVF0S7mO5VXskyBHx4wP/2ecf9d217623e0b6d41732391466aba0/emotional_stability.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/6WaJGgKoIABt6B8jCzc4qo/83de5a1b4e7cc0503dca2c6357969da4/95f6ff51-4de1-4146-9980-eea84d276f7a_large",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "5"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 66.66666,
+				"rank": 8,
+				"raw_score": 1200.0,
+				"max_score": 400.0
+			},
+			{
+				"personality_trait": {
+					"id": "c38fec91-95ad-4297-9470-1ae4572e459f",
+					"name": "Forgiving",
+					"definition": "allowing room for error or weakness in another",
+					"description": "",
+					"personality_type": {
+						"id": "2835d442-98be-49ff-9cf1-0e0ea577fa77",
+						"name": "Agreeableness",
+						"description": "Influencing people (Agreeableness) concerns the way someone balances their emotional understanding of other people, and their respect for differing viewpoints, with the style in which they try to influence or negotiate with them.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/1yEkNHw45D6dLB7vyhdpql/ceccc8106c6ba4dd05bbdac6b3f32ffb/agreeableness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/1iriPiynTaEEDAV3unjDH5/65a4d2d46aef44e0e36fdab4cc465baa/agreeableness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/JmlxPsUWdrnRVrzZb0Eev/3c6db19aba2a4ff77a7618b2241b7ae8/agreeableness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "4"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 66.66666,
+				"rank": 9,
+				"raw_score": 1200.0,
+				"max_score": 400.0
+			},
+			{
+				"personality_trait": {
+					"id": "f061ac1c-61d9-4b73-a0bb-cc504eec4c4b",
+					"name": "High-Energy",
+					"definition": "Possessing high stamina and motivation.",
+					"description": "",
+					"personality_type": {
+						"id": "f702b455-2c0e-433c-a274-b01b68ae29ba",
+						"name": "Extraversion",
+						"description": "Engaging with people (Extraversion) concerns someone’s interest, investment and comfort in developing relationships with others - customers, clients, work groups or colleagues.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/3jTWPNKpc9ARoEZwAj7hBf/a86507f72fe150420f808d19db633ea2/extraversion_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6qaPeOKkzLW7Zxc0jwjlWD/de082488d4d3dcf8f00931fdc22b24a7/extraversion.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/70Xq2kTD5hAGFKKyoyJrQw/e6e6b22b6e36e5d52224dc1d100df5c1/extraversion.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "3"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 66.66666,
+				"rank": 10,
+				"raw_score": 1200.0,
+				"max_score": 400.0
+			},
+			{
+				"personality_trait": {
+					"id": "339821ec-4a30-4e90-aa76-0b4c3c8d97a3",
+					"name": "Deliberate",
+					"definition": "careful and slow in deciding and acting",
+					"description": "",
+					"personality_type": {
+						"id": "f087aa70-14ea-4293-9327-cedf0e4ce1fa",
+						"name": "Emotional Stability",
+						"description": "Managing pressure (Emotional Stability) concerns the manner in which someone deals with pressure and the way in which they control their emotions and underlying tension, in order to stay on task and cope with everyday challenges.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2ec4OnkZIU65BasPg2j5YY/b2af2e2f98f6b188f154153295eea252/emotional_stability_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/7EGVF0S7mO5VXskyBHx4wP/2ecf9d217623e0b6d41732391466aba0/emotional_stability.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/6WaJGgKoIABt6B8jCzc4qo/83de5a1b4e7cc0503dca2c6357969da4/95f6ff51-4de1-4146-9980-eea84d276f7a_large",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "5"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 60.0,
+				"rank": 11,
+				"raw_score": 1000.0,
+				"max_score": 300.0
+			},
+			{
+				"personality_trait": {
+					"id": "4f66d64c-6e91-43a9-a424-ddae2a120776",
+					"name": "Easy-Going",
+					"definition": "can “go with the flow” and adjust preferences when needed ",
+					"description": "",
+					"personality_type": {
+						"id": "f087aa70-14ea-4293-9327-cedf0e4ce1fa",
+						"name": "Emotional Stability",
+						"description": "Managing pressure (Emotional Stability) concerns the manner in which someone deals with pressure and the way in which they control their emotions and underlying tension, in order to stay on task and cope with everyday challenges.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2ec4OnkZIU65BasPg2j5YY/b2af2e2f98f6b188f154153295eea252/emotional_stability_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/7EGVF0S7mO5VXskyBHx4wP/2ecf9d217623e0b6d41732391466aba0/emotional_stability.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/6WaJGgKoIABt6B8jCzc4qo/83de5a1b4e7cc0503dca2c6357969da4/95f6ff51-4de1-4146-9980-eea84d276f7a_large",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "5"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 60.0,
+				"rank": 12,
+				"raw_score": 1000.0,
+				"max_score": 300.0
+			},
+			{
+				"personality_trait": {
+					"id": "cd7866e9-0c09-47d2-8261-c6713eae41c8",
+					"name": "Thrill-Seeking",
+					"definition": "craving excitement",
+					"description": "",
+					"personality_type": {
+						"id": "f702b455-2c0e-433c-a274-b01b68ae29ba",
+						"name": "Extraversion",
+						"description": "Engaging with people (Extraversion) concerns someone’s interest, investment and comfort in developing relationships with others - customers, clients, work groups or colleagues.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/3jTWPNKpc9ARoEZwAj7hBf/a86507f72fe150420f808d19db633ea2/extraversion_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6qaPeOKkzLW7Zxc0jwjlWD/de082488d4d3dcf8f00931fdc22b24a7/extraversion.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/70Xq2kTD5hAGFKKyoyJrQw/e6e6b22b6e36e5d52224dc1d100df5c1/extraversion.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "3"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 60.0,
+				"rank": 13,
+				"raw_score": 1000.0,
+				"max_score": 300.0
+			},
+			{
+				"personality_trait": {
+					"id": "b4eda8a9-34a9-460c-b0cc-d4a463b03422",
+					"name": "Can Delay Gratification",
+					"definition": "Can manage and delay one’s appetites and desires. ",
+					"description": "",
+					"personality_type": {
+						"id": "05596127-4fdd-4d22-8ae7-530d42d225eb",
+						"name": "Conscientiousness",
+						"description": "Delivering Results (Conscientiousness) concerns work style and how someone directs their efforts and attention toward completing tasks. The level of discipline, dedication, perseverance, organization and reliability are hallmark factors of this dimension. ",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2eHxQIpiBSJR6Vd8amELvR/7fca5969620615dec78c2d2adffaf71f/conscientiousness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/2i86CgVp6PeF5Yib8fAbK8/17f8aa2d8eca3a90a96858025f61bcee/conscientiousness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/7qIeI3o666O8U5AZ6Pro3T/bff8a50c5d3a69f4ed1690b1d340af7a/conscientiousness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "2"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 55.555557,
+				"rank": 14,
+				"raw_score": 1800.0,
+				"max_score": 500.0
+			},
+			{
+				"personality_trait": {
+					"id": "cdeeacf8-6de4-4045-86ae-fdab4930701d",
+					"name": "Altruistic",
+					"definition": "Devoted to the welfare of others or the greater good.",
+					"description": "",
+					"personality_type": {
+						"id": "2835d442-98be-49ff-9cf1-0e0ea577fa77",
+						"name": "Agreeableness",
+						"description": "Influencing people (Agreeableness) concerns the way someone balances their emotional understanding of other people, and their respect for differing viewpoints, with the style in which they try to influence or negotiate with them.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/1yEkNHw45D6dLB7vyhdpql/ceccc8106c6ba4dd05bbdac6b3f32ffb/agreeableness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/1iriPiynTaEEDAV3unjDH5/65a4d2d46aef44e0e36fdab4cc465baa/agreeableness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/JmlxPsUWdrnRVrzZb0Eev/3c6db19aba2a4ff77a7618b2241b7ae8/agreeableness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "4"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 50.0,
+				"rank": 15,
+				"raw_score": 1600.0,
+				"max_score": 400.0
+			},
+			{
+				"personality_trait": {
+					"id": "1dab21ff-affb-4bfb-9d65-8988506f7fd2",
+					"name": "Visionary",
+					"definition": "Can imagine how actions and ideas pursued in the present will affect the future.",
+					"description": "",
+					"personality_type": {
+						"id": "462b8063-69f4-4b50-990b-8daee93e8616",
+						"name": "Openness",
+						"description": "Solving Problems (Openness) concerns how someone thinks about work problems, projects and challenges, how receptive they are to new or different information or approaches, and the way this influences their decision-making.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/6zFDrU4OM6NfWOdt6OGd41/238018123cad16859c4d9171b156d30d/openness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6TcaGFUmkzAE4n5blutGnB/e6a2e8bfeca34ad132eb6f2c1a87b9a0/openness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/4J2MjwdJYBcD2UOctg5geW/a7dfd8580a875b6b29c0ad704fa1e606/openness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "1"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [
+							""
+						],
+						"explore": [
+							""
+						],
+						"achieve": [
+							""
+						],
+						"act": [
+							""
+						],
+						"appreciate": [
+							""
+						]
+					}
+				},
+				"score": 42.857147,
+				"rank": 16,
+				"raw_score": 1400.0,
+				"max_score": 300.0
+			},
+			{
+				"personality_trait": {
+					"id": "43de2941-a73e-4673-9b1a-048a9334962e",
+					"name": "Compassionate",
+					"definition": "Feeling deep sympathy and sorrow for another stricken by misfortune.",
+					"description": "",
+					"personality_type": {
+						"id": "2835d442-98be-49ff-9cf1-0e0ea577fa77",
+						"name": "Agreeableness",
+						"description": "Influencing people (Agreeableness) concerns the way someone balances their emotional understanding of other people, and their respect for differing viewpoints, with the style in which they try to influence or negotiate with them.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/1yEkNHw45D6dLB7vyhdpql/ceccc8106c6ba4dd05bbdac6b3f32ffb/agreeableness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/1iriPiynTaEEDAV3unjDH5/65a4d2d46aef44e0e36fdab4cc465baa/agreeableness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/JmlxPsUWdrnRVrzZb0Eev/3c6db19aba2a4ff77a7618b2241b7ae8/agreeableness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "4"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 42.857147,
+				"rank": 17,
+				"raw_score": 1400.0,
+				"max_score": 300.0
+			},
+			{
+				"personality_trait": {
+					"id": "a0d2ade9-c4fa-4972-860a-ca872ba4ee47",
+					"name": "Loyal",
+					"definition": "Devoted to relationships with important others.",
+					"description": "",
+					"personality_type": {
+						"id": "2835d442-98be-49ff-9cf1-0e0ea577fa77",
+						"name": "Agreeableness",
+						"description": "Influencing people (Agreeableness) concerns the way someone balances their emotional understanding of other people, and their respect for differing viewpoints, with the style in which they try to influence or negotiate with them.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/1yEkNHw45D6dLB7vyhdpql/ceccc8106c6ba4dd05bbdac6b3f32ffb/agreeableness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/1iriPiynTaEEDAV3unjDH5/65a4d2d46aef44e0e36fdab4cc465baa/agreeableness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/JmlxPsUWdrnRVrzZb0Eev/3c6db19aba2a4ff77a7618b2241b7ae8/agreeableness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "4"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 42.857147,
+				"rank": 18,
+				"raw_score": 1400.0,
+				"max_score": 300.0
+			},
+			{
+				"personality_trait": {
+					"id": "467622a3-eaad-45ff-b991-50356bc8d88f",
+					"name": "Calm",
+					"definition": "An internal sense of peacefulness.",
+					"description": "",
+					"personality_type": {
+						"id": "f087aa70-14ea-4293-9327-cedf0e4ce1fa",
+						"name": "Emotional Stability",
+						"description": "Managing pressure (Emotional Stability) concerns the manner in which someone deals with pressure and the way in which they control their emotions and underlying tension, in order to stay on task and cope with everyday challenges.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2ec4OnkZIU65BasPg2j5YY/b2af2e2f98f6b188f154153295eea252/emotional_stability_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/7EGVF0S7mO5VXskyBHx4wP/2ecf9d217623e0b6d41732391466aba0/emotional_stability.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/6WaJGgKoIABt6B8jCzc4qo/83de5a1b4e7cc0503dca2c6357969da4/95f6ff51-4de1-4146-9980-eea84d276f7a_large",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "5"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 33.333344,
+				"rank": 19,
+				"raw_score": 1200.0,
+				"max_score": 200.0
+			},
+			{
+				"personality_trait": {
+					"id": "6930157c-eb56-4757-a2e2-3a54fbfc6f6d",
+					"name": "Open-Minded",
+					"definition": "having a mind receptive to new ideas or ideas contrary to one’s own beliefs",
+					"description": "",
+					"personality_type": {
+						"id": "462b8063-69f4-4b50-990b-8daee93e8616",
+						"name": "Openness",
+						"description": "Solving Problems (Openness) concerns how someone thinks about work problems, projects and challenges, how receptive they are to new or different information or approaches, and the way this influences their decision-making.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/6zFDrU4OM6NfWOdt6OGd41/238018123cad16859c4d9171b156d30d/openness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6TcaGFUmkzAE4n5blutGnB/e6a2e8bfeca34ad132eb6f2c1a87b9a0/openness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/4J2MjwdJYBcD2UOctg5geW/a7dfd8580a875b6b29c0ad704fa1e606/openness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "1"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [
+							""
+						],
+						"explore": [
+							""
+						],
+						"achieve": [
+							""
+						],
+						"act": [
+							""
+						],
+						"appreciate": [
+							""
+						]
+					}
+				},
+				"score": 33.333344,
+				"rank": 20,
+				"raw_score": 1800.0,
+				"max_score": 300.0
+			},
+			{
+				"personality_trait": {
+					"id": "7dc52c28-ad0a-4d6a-a54f-8b8270fa2441",
+					"name": "Playful",
+					"definition": "fun-loving",
+					"description": "",
+					"personality_type": {
+						"id": "462b8063-69f4-4b50-990b-8daee93e8616",
+						"name": "Openness",
+						"description": "Solving Problems (Openness) concerns how someone thinks about work problems, projects and challenges, how receptive they are to new or different information or approaches, and the way this influences their decision-making.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/6zFDrU4OM6NfWOdt6OGd41/238018123cad16859c4d9171b156d30d/openness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6TcaGFUmkzAE4n5blutGnB/e6a2e8bfeca34ad132eb6f2c1a87b9a0/openness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/4J2MjwdJYBcD2UOctg5geW/a7dfd8580a875b6b29c0ad704fa1e606/openness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "1"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [
+							""
+						],
+						"explore": [
+							""
+						],
+						"achieve": [
+							""
+						],
+						"act": [
+							""
+						],
+						"appreciate": [
+							""
+						]
+					}
+				},
+				"score": 33.333344,
+				"rank": 21,
+				"raw_score": 1200.0,
+				"max_score": 200.0
+			},
+			{
+				"personality_trait": {
+					"id": "b5111d72-c892-4c97-a47b-676c41196974",
+					"name": "Robust",
+					"definition": "strong and healthy",
+					"description": "",
+					"personality_type": {
+						"id": "f087aa70-14ea-4293-9327-cedf0e4ce1fa",
+						"name": "Emotional Stability",
+						"description": "Managing pressure (Emotional Stability) concerns the manner in which someone deals with pressure and the way in which they control their emotions and underlying tension, in order to stay on task and cope with everyday challenges.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2ec4OnkZIU65BasPg2j5YY/b2af2e2f98f6b188f154153295eea252/emotional_stability_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/7EGVF0S7mO5VXskyBHx4wP/2ecf9d217623e0b6d41732391466aba0/emotional_stability.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/6WaJGgKoIABt6B8jCzc4qo/83de5a1b4e7cc0503dca2c6357969da4/95f6ff51-4de1-4146-9980-eea84d276f7a_large",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "5"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 33.333344,
+				"rank": 22,
+				"raw_score": 1200.0,
+				"max_score": 200.0
+			},
+			{
+				"personality_trait": {
+					"id": "f33f3420-8413-49be-b7df-a611f9ac006a",
+					"name": "Accommodating",
+					"definition": "Willing to do what someone else wants.",
+					"description": "",
+					"personality_type": {
+						"id": "2835d442-98be-49ff-9cf1-0e0ea577fa77",
+						"name": "Agreeableness",
+						"description": "Influencing people (Agreeableness) concerns the way someone balances their emotional understanding of other people, and their respect for differing viewpoints, with the style in which they try to influence or negotiate with them.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/1yEkNHw45D6dLB7vyhdpql/ceccc8106c6ba4dd05bbdac6b3f32ffb/agreeableness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/1iriPiynTaEEDAV3unjDH5/65a4d2d46aef44e0e36fdab4cc465baa/agreeableness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/JmlxPsUWdrnRVrzZb0Eev/3c6db19aba2a4ff77a7618b2241b7ae8/agreeableness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "4"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 33.333344,
+				"rank": 23,
+				"raw_score": 1800.0,
+				"max_score": 300.0
+			},
+			{
+				"personality_trait": {
+					"id": "62e8b2b1-7822-469a-8db2-7cd8c63bd11a",
+					"name": "Ambitious",
+					"definition": "Having a strong desire to achieve.",
+					"description": "",
+					"personality_type": {
+						"id": "05596127-4fdd-4d22-8ae7-530d42d225eb",
+						"name": "Conscientiousness",
+						"description": "Delivering Results (Conscientiousness) concerns work style and how someone directs their efforts and attention toward completing tasks. The level of discipline, dedication, perseverance, organization and reliability are hallmark factors of this dimension. ",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2eHxQIpiBSJR6Vd8amELvR/7fca5969620615dec78c2d2adffaf71f/conscientiousness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/2i86CgVp6PeF5Yib8fAbK8/17f8aa2d8eca3a90a96858025f61bcee/conscientiousness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/7qIeI3o666O8U5AZ6Pro3T/bff8a50c5d3a69f4ed1690b1d340af7a/conscientiousness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "2"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 25.0,
+				"rank": 24,
+				"raw_score": 1600.0,
+				"max_score": 200.0
+			},
+			{
+				"personality_trait": {
+					"id": "1a218b0a-f010-439c-b136-7716cfa519f3",
+					"name": "Whimsical",
+					"definition": "Values the playful and capricious aspects of an activity\n",
+					"description": "",
+					"personality_type": {
+						"id": "462b8063-69f4-4b50-990b-8daee93e8616",
+						"name": "Openness",
+						"description": "Solving Problems (Openness) concerns how someone thinks about work problems, projects and challenges, how receptive they are to new or different information or approaches, and the way this influences their decision-making.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/6zFDrU4OM6NfWOdt6OGd41/238018123cad16859c4d9171b156d30d/openness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6TcaGFUmkzAE4n5blutGnB/e6a2e8bfeca34ad132eb6f2c1a87b9a0/openness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/4J2MjwdJYBcD2UOctg5geW/a7dfd8580a875b6b29c0ad704fa1e606/openness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "1"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [
+							""
+						],
+						"explore": [
+							""
+						],
+						"achieve": [
+							""
+						],
+						"act": [
+							""
+						],
+						"appreciate": [
+							""
+						]
+					}
+				},
+				"score": 14.285721,
+				"rank": 25,
+				"raw_score": 1400.0,
+				"max_score": 100.0
+			},
+			{
+				"personality_trait": {
+					"id": "749ba657-fc11-451b-abae-524ca036199a",
+					"name": "Creative",
+					"definition": "original, artistic, and imaginative",
+					"description": "",
+					"personality_type": {
+						"id": "462b8063-69f4-4b50-990b-8daee93e8616",
+						"name": "Openness",
+						"description": "Solving Problems (Openness) concerns how someone thinks about work problems, projects and challenges, how receptive they are to new or different information or approaches, and the way this influences their decision-making.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/6zFDrU4OM6NfWOdt6OGd41/238018123cad16859c4d9171b156d30d/openness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/6TcaGFUmkzAE4n5blutGnB/e6a2e8bfeca34ad132eb6f2c1a87b9a0/openness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/4J2MjwdJYBcD2UOctg5geW/a7dfd8580a875b6b29c0ad704fa1e606/openness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "1"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [
+							""
+						],
+						"explore": [
+							""
+						],
+						"achieve": [
+							""
+						],
+						"act": [
+							""
+						],
+						"appreciate": [
+							""
+						]
+					}
+				},
+				"score": 14.285721,
+				"rank": 26,
+				"raw_score": 1400.0,
+				"max_score": 100.0
+			},
+			{
+				"personality_trait": {
+					"id": "89c61416-2772-4e7d-abbb-0a5f55db188d",
+					"name": "Committed",
+					"definition": "To pledge oneself to a position on an issue or to another person.",
+					"description": "",
+					"personality_type": {
+						"id": "05596127-4fdd-4d22-8ae7-530d42d225eb",
+						"name": "Conscientiousness",
+						"description": "Delivering Results (Conscientiousness) concerns work style and how someone directs their efforts and attention toward completing tasks. The level of discipline, dedication, perseverance, organization and reliability are hallmark factors of this dimension. ",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2eHxQIpiBSJR6Vd8amELvR/7fca5969620615dec78c2d2adffaf71f/conscientiousness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/2i86CgVp6PeF5Yib8fAbK8/17f8aa2d8eca3a90a96858025f61bcee/conscientiousness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/7qIeI3o666O8U5AZ6Pro3T/bff8a50c5d3a69f4ed1690b1d340af7a/conscientiousness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "2"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": 14.285721,
+				"rank": 27,
+				"raw_score": 1400.0,
+				"max_score": 100.0
+			},
+			{
+				"personality_trait": {
+					"id": "b8c12411-b172-4c9f-8bcf-8ed0d4e29f54",
+					"name": "Self-Discipline",
+					"definition": "The ability to make yourself do things that you think should be done.",
+					"description": "",
+					"personality_type": {
+						"id": "05596127-4fdd-4d22-8ae7-530d42d225eb",
+						"name": "Conscientiousness",
+						"description": "Delivering Results (Conscientiousness) concerns work style and how someone directs their efforts and attention toward completing tasks. The level of discipline, dedication, perseverance, organization and reliability are hallmark factors of this dimension. ",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2eHxQIpiBSJR6Vd8amELvR/7fca5969620615dec78c2d2adffaf71f/conscientiousness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/2i86CgVp6PeF5Yib8fAbK8/17f8aa2d8eca3a90a96858025f61bcee/conscientiousness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/7qIeI3o666O8U5AZ6Pro3T/bff8a50c5d3a69f4ed1690b1d340af7a/conscientiousness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "2"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": -14.285713,
+				"rank": 28,
+				"raw_score": 1400.0,
+				"max_score": -100.0
+			},
+			{
+				"personality_trait": {
+					"id": "37eba886-fdec-4b1c-904d-b9fd4b5e4980",
+					"name": "Orderliness",
+					"definition": "Valuing organization and logic.",
+					"description": "",
+					"personality_type": {
+						"id": "05596127-4fdd-4d22-8ae7-530d42d225eb",
+						"name": "Conscientiousness",
+						"description": "Delivering Results (Conscientiousness) concerns work style and how someone directs their efforts and attention toward completing tasks. The level of discipline, dedication, perseverance, organization and reliability are hallmark factors of this dimension. ",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2eHxQIpiBSJR6Vd8amELvR/7fca5969620615dec78c2d2adffaf71f/conscientiousness_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/2i86CgVp6PeF5Yib8fAbK8/17f8aa2d8eca3a90a96858025f61bcee/conscientiousness.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/7qIeI3o666O8U5AZ6Pro3T/bff8a50c5d3a69f4ed1690b1d340af7a/conscientiousness.png",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "2"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": -20.0,
+				"rank": 29,
+				"raw_score": 1000.0,
+				"max_score": -100.0
+			},
+			{
+				"personality_trait": {
+					"id": "e829d069-cef7-4167-abe5-6060226a2a83",
+					"name": "Positive",
+					"definition": "Thinking that a good result will happen.",
+					"description": "Not easily discouraged",
+					"personality_type": {
+						"id": "f087aa70-14ea-4293-9327-cedf0e4ce1fa",
+						"name": "Emotional Stability",
+						"description": "Managing pressure (Emotional Stability) concerns the manner in which someone deals with pressure and the way in which they control their emotions and underlying tension, in order to stay on task and cope with everyday challenges.",
+						"badge": {
+							"image_small": "https://images.ctfassets.net/4pzvszxmf15y/2ec4OnkZIU65BasPg2j5YY/b2af2e2f98f6b188f154153295eea252/emotional_stability_sml.png",
+							"image_medium": "https://images.ctfassets.net/4pzvszxmf15y/7EGVF0S7mO5VXskyBHx4wP/2ecf9d217623e0b6d41732391466aba0/emotional_stability.png",
+							"image_large": "https://images.ctfassets.net/4pzvszxmf15y/6WaJGgKoIABt6B8jCzc4qo/83de5a1b4e7cc0503dca2c6357969da4/95f6ff51-4de1-4146-9980-eea84d276f7a_large",
+							"font_color": "",
+							"color_1": "000000",
+							"color_2": "",
+							"color_3": ""
+						},
+						"keywords": null,
+						"details": [
+							{
+								"title": "Position",
+								"body": "5"
+							}
+						],
+						"environments": [],
+						"famous_people": [],
+						"personality_traits": [],
+						"level": null,
+						"level_id": null,
+						"career_style": [],
+						"explore": [],
+						"achieve": [],
+						"act": [],
+						"appreciate": []
+					}
+				},
+				"score": -33.33333,
+				"rank": 30,
+				"raw_score": 1200.0,
+				"max_score": -200.0
+			}
+		],
+		"career_matches": [],
+		"slides": [],
+		"profile_ids": [
+			"25925432-1f45-4d3d-8824-426bfbfcae94"
+		],
+		"recommendation": {
+			"id": "8f2bc646-34c5-46b8-b3ac-b222fd71300f",
+			"recommendation_id": "63145e5e-4cb9-4ca6-bbb1-d634442c1c01",
+			"benchmark_name": "Restaurant - Front of House",
+			"benchmark_tag": null,
+			"rank_id": "bbb2a323-b340-4c1b-8081-4369fe0264f3",
+			"description": "⭐⭐⭐⭐⭐",
+			"visual_description": "Green",
+			"visual_hex_value": "#2fb855",
+			"match_score": 90,
+			"level": 5
+		},
+		"recommendations": [
+			{
+				"id": "e8ba7bed-2404-411c-8a88-59eb81e95d04",
+				"recommendation_id": "33c369ac-1764-4683-b3f5-e441ffde0d4b",
+				"benchmark_name": "Restaurant - Manager ",
+				"benchmark_tag": null,
+				"rank_id": "7134124e-b7e2-41a1-b810-4cae1e28dddf",
+				"description": "⭐⭐⭐⭐⭐",
+				"visual_description": "Green",
+				"visual_hex_value": "#2fb855",
+				"match_score": 90,
+				"level": 5
+			},
+			{
+				"id": "8f2bc646-34c5-46b8-b3ac-b222fd71300f",
+				"recommendation_id": "63145e5e-4cb9-4ca6-bbb1-d634442c1c01",
+				"benchmark_name": "Restaurant - Front of House",
+				"benchmark_tag": null,
+				"rank_id": "bbb2a323-b340-4c1b-8081-4369fe0264f3",
+				"description": "⭐⭐⭐⭐⭐",
+				"visual_description": "Green",
+				"visual_hex_value": "#2fb855",
+				"match_score": 90,
+				"level": 5
+			},
+			{
+				"id": "bb4f1610-d0ed-4444-b570-4d8b472f2e22",
+				"recommendation_id": "e1f44527-58a0-4e59-8f3c-cb2b587de64f",
+				"benchmark_name": "Retail - Sales Associate/Customer Service",
+				"benchmark_tag": null,
+				"rank_id": "8aeb72c5-62eb-4fbf-ad90-9d9cfebaf87f",
+				"description": "⭐⭐⭐⭐⭐",
+				"visual_description": "Green",
+				"visual_hex_value": "#2fb855",
+				"match_score": 90,
+				"level": 5
+			},
+			{
+				"id": "d9914b42-7af4-4ce5-b8a1-70025a76d17b",
+				"recommendation_id": "305e0df1-b67d-4cbe-a7cd-3192005eaaf0",
+				"benchmark_name": "Hospitality FOH Guest Service Agent ",
+				"benchmark_tag": null,
+				"rank_id": "1387fdd4-c747-45d0-b7b4-b49c65311f43",
+				"description": "⭐⭐⭐",
+				"visual_description": "Yellow",
+				"visual_hex_value": "#ffbb22",
+				"match_score": 80,
+				"level": 3
+			},
+			{
+				"id": "2b551113-a2d4-42d1-a525-65f0633dd5a0",
+				"recommendation_id": "4160e3ca-96dc-4db8-b244-57a79d11ac32",
+				"benchmark_name": "Restaurant - Back of House",
+				"benchmark_tag": null,
+				"rank_id": "693fe403-7d7e-4332-b337-4bad7366d116",
+				"description": "⭐⭐⭐",
+				"visual_description": "Yellow",
+				"visual_hex_value": "#ffbb22",
+				"match_score": 80,
+				"level": 3
+			},
+			{
+				"id": "814e2cd4-b256-4eec-a0d3-cad29ebda37c",
+				"recommendation_id": "4891081d-d7c2-498c-a967-0c92349e2b4d",
+				"benchmark_name": "Administrative - General Administrative Roles",
+				"benchmark_tag": null,
+				"rank_id": "39101ae8-a250-40f0-98aa-2be3c8c31e17",
+				"description": "⭐⭐⭐",
+				"visual_description": "Yellow",
+				"visual_hex_value": "#ffbb22",
+				"match_score": 80,
+				"level": 3
+			},
+			{
+				"id": "143e0212-11c4-42cf-8731-f6dcc18607d8",
+				"recommendation_id": "568be5d8-13cb-4a76-9b6a-24aa55966ef5",
+				"benchmark_name": "Supervisor",
+				"benchmark_tag": null,
+				"rank_id": "6f2a4944-3b31-4bfa-b7d9-cf273ccf0e7b",
+				"description": "⭐⭐⭐",
+				"visual_description": "Yellow",
+				"visual_hex_value": "#ffbb22",
+				"match_score": 80,
+				"level": 3
+			},
+			{
+				"id": "3c582700-f70d-45ea-9b5b-f8bd22067c14",
+				"recommendation_id": "91e00aec-3fcc-4776-ac20-5732a497c712",
+				"benchmark_name": "Retail - Entry-Level Manager/Convenience Store Manager",
+				"benchmark_tag": null,
+				"rank_id": "799aa119-0956-468f-9fa1-cdb8e9c6a1b4",
+				"description": "⭐⭐⭐",
+				"visual_description": "Yellow",
+				"visual_hex_value": "#ffbb22",
+				"match_score": 80,
+				"level": 3
+			},
+			{
+				"id": "cd16a702-22a1-4c18-a7ed-36a34008c4fa",
+				"recommendation_id": "b2fa83b3-264a-4f25-bde1-d89c74a630bc",
+				"benchmark_name": "Healthcare - Non-Patient Support Roles",
+				"benchmark_tag": null,
+				"rank_id": "8f6c99da-8e8c-4d43-b84a-e2298589254b",
+				"description": "⭐⭐⭐",
+				"visual_description": "Yellow",
+				"visual_hex_value": "#ffbb22",
+				"match_score": 80,
+				"level": 3
+			},
+			{
+				"id": "9d4a289f-08fa-463b-9d6c-c18bbf162a76",
+				"recommendation_id": "1f01e613-71dd-4f1d-b13a-35eadbb09281",
+				"benchmark_name": "Healthcare - Patient/Direct Care Roles",
+				"benchmark_tag": null,
+				"rank_id": "269d4230-e7e0-4e5f-9484-280fb9314d40",
+				"description": "⭐⭐⭐",
+				"visual_description": "Yellow",
+				"visual_hex_value": "#ffbb22",
+				"match_score": 75,
+				"level": 3
+			},
+			{
+				"id": "1fc3a709-ac7a-43a5-91f5-0ac3399a8de9",
+				"recommendation_id": "c5008a81-6257-4145-9eed-cc4a12931dbe",
+				"benchmark_name": "Retail - Convenience Store Associate",
+				"benchmark_tag": null,
+				"rank_id": "988451b6-6378-4220-8c9f-bde0cfaea8ad",
+				"description": "⭐⭐",
+				"visual_description": "Light Red",
+				"visual_hex_value": "#f98d3d",
+				"match_score": 70,
+				"level": 2
+			},
+			{
+				"id": "dacb331a-da3c-4324-9885-beb1e0576f86",
+				"recommendation_id": "e032466c-7439-4e19-a843-63e17326004e",
+				"benchmark_name": "Retail - Cashier ",
+				"benchmark_tag": null,
+				"rank_id": "00d6098b-7639-42f3-ba51-d9d4ff0a7b24",
+				"description": "⭐⭐",
+				"visual_description": "Light Red",
+				"visual_hex_value": "#f98d3d",
+				"match_score": 70,
+				"level": 2
+			},
+			{
+				"id": "1671a25b-9f39-45a9-a0d2-df9e0bfc81ef",
+				"recommendation_id": "0daafa4b-5d25-4f62-a260-af74fd9b7ef8",
+				"benchmark_name": "Production & Distribution",
+				"benchmark_tag": null,
+				"rank_id": "07074e01-5715-494c-b488-c1523a0d0d6e",
+				"description": "⭐⭐",
+				"visual_description": "Light Red",
+				"visual_hex_value": "#f98d3d",
+				"match_score": 65,
+				"level": 2
+			},
+			{
+				"id": "5b0c6fb9-a655-4774-9320-a59c3ae099f9",
+				"recommendation_id": "51dc170e-19c5-455b-a5eb-9af844966f19",
+				"benchmark_name": "Hospitality BOH Housekeeping ",
+				"benchmark_tag": null,
+				"rank_id": "8c0c8b0a-9991-46e5-9a77-f40ed4f26bf1",
+				"description": "⭐⭐",
+				"visual_description": "Light Red",
+				"visual_hex_value": "#f98d3d",
+				"match_score": 65,
+				"level": 2
+			}
+		]
+	}
+]
