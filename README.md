@@ -1,3 +1,9 @@
+# Traitify Images
+
+I applied to Taco Bell in January 2025.  I was given an assessment to complete where different pictures show up (each with a label).  And then I could answer with whether each matches my personality or now.  The image associations are interesting and humourous.  That's why I posted them here.
+
+---
+
 **[`assessments.json`](./assessments.json):** a manual concatenation of multiple GET calls to this URL (at different stages of my application process):
 
 ```
